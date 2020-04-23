@@ -37,4 +37,4 @@ estimated trailing thirty day consumption estimates!
 
 ## Reference
 
-* [Blog Post](https://codeascraft.com/)
+* [Blog Post](https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/)
