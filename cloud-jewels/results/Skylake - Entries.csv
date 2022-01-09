@@ -1,0 +1,82 @@
+processor_x,company_x,brand,make,model,moniker,version,Nodes,processor_y,MHz,Chips,Cores,Total Threads,Total Memory (GB),avg. watts @ 100%,avg. watts @ active idle,launch_date,company_y,watts per thread idle,watts per thread max,watts per core idle,watts per core max,threads per core
+Xeon E3-1260L v5,,xeon,, e3-1260,l, v5,1.0,Intel Xeon E3-1260L v5,2900.0,1.0,4.0,8,16,44.7,11.6,2015.0,intel,1.45,5.59,2.9,11.18,2.0
+Xeon E3-1260L v5,,xeon,, e3-1260,l, v5,1.0,Intel Xeon E3-1260L v5,2900.0,1.0,4.0,8,16,47.7,16,2015.0,intel,2.0,5.96,4.0,11.93,2.0
+Xeon E3-1240L v5,,xeon,, e3-1240,l, v5,1.0,Intel Xeon E3-1240L v5,2100.0,1.0,4.0,8,16,47.2,16.1,2016.0,intel,2.01,5.9,4.03,11.8,2.0
+Xeon Gold 5117,,xeon,gold, 5117,,,1.0,Intel Xeon Gold 5117,2000.0,2.0,28.0,56,192,245,51.9,2018.0,intel,0.93,4.38,1.85,8.75,2.0
+Xeon Gold 6136,,xeon,gold, 6136,,,1.0,Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz,3000.0,2.0,24.0,48,196,432,131,2020.0,intel,2.73,9.0,5.46,18.0,2.0
+Xeon Gold 6140,,xeon,gold, 6140,,,1.0,Intel Xeon Gold 6140,2300.0,2.0,36.0,72,192,343,52.4,2018.0,intel,0.73,4.76,1.46,9.53,2.0
+Xeon Gold 6152,,xeon,gold, 6152,,,1.0,Intel Xeon Gold 6152,2100.0,2.0,44.0,88,192,364,53.1,2018.0,intel,0.6,4.14,1.21,8.27,2.0
+Xeon Platinum 8160,,xeon,platinum, 8160,,,1.0,Intel Xeon Platinum 8160,2100.0,2.0,48.0,96,192,387,53.4,2018.0,intel,0.56,4.03,1.11,8.06,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,2.0,56.0,112,192,461,49.6,2017.0,intel,0.44,4.12,0.89,8.23,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,2.0,56.0,112,192,454,49.4,2018.0,intel,0.44,4.05,0.88,8.11,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,4.0,112.0,224,384,726,158,2018.0,intel,0.71,3.24,1.41,6.48,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100.0,2.0,56.0,112,192,458,51.3,2018.0,intel,0.46,4.09,0.92,8.18,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100.0,2.0,56.0,112,192,357,57.7,2017.0,intel,0.52,3.19,1.03,6.38,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,4.0,Intel Xeon Platinum 8176,2100.0,8.0,224.0,448,768,"1,434",256,2017.0,intel,0.57,3.2,1.14,6.4,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100.0,4.0,112.0,224,384,688,95.8,2017.0,intel,0.43,3.07,0.86,6.14,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100.0,1.0,28.0,56,96,183,45.6,2017.0,intel,0.81,3.27,1.63,6.54,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,14.0,Intel Xeon Platinum 8176,2100.0,28.0,784.0,1568,2688,"5,288","1,446",2017.0,intel,0.92,3.37,1.84,6.74,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,4.0,Intel Xeon Platinum 8176,2100.0,8.0,224.0,448,768,"1,474",241,2018.0,intel,0.54,3.29,1.08,6.58,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,7.0,Intel Xeon Platinum 8176,2100.0,28.0,784.0,1568,2688,"5,366",820,2018.0,intel,0.52,3.42,1.05,6.84,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,8.0,224.0,448,768,"1,479",182,2018.0,intel,0.41,3.3,0.81,6.6,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,2.0,56.0,112,192,352,67.7,2019.0,intel,0.6,3.14,1.21,6.29,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,1.0,Intel Xeon Platinum 8176,2100.0,2.0,56.0,112,192,355,72.3,2019.0,intel,0.65,3.17,1.29,6.34,2.0
+Xeon Platinum 8176,,xeon,platinum, 8176,,,4.0,Intel Xeon Platinum 8176,2100.0,8.0,224.0,448,768,"1,478",206,2017.0,intel,0.46,3.3,0.92,6.6,2.0
+Xeon Platinum 8176M,,xeon,platinum, 8176,m,,4.0,Intel Xeon Platinum 8176M,2100.0,8.0,224.0,448,768,"1,417",193,2019.0,intel,0.43,3.16,0.86,6.33,2.0
+Xeon Platinum 8176M,,xeon,platinum, 8176,m,,1.0,Intel Xeon Platinum 8176M,2100.0,4.0,112.0,224,192,785,148,2017.0,intel,0.66,3.5,1.32,7.01,2.0
+Xeon Platinum 8176M,,xeon,platinum, 8176,m,,1.0,Intel Xeon Platinum 8176M,2100.0,4.0,112.0,224,192,773,146,2017.0,intel,0.65,3.45,1.3,6.9,2.0
+Xeon Platinum 8176M,,xeon,platinum, 8176,m,,1.0,Intel Xeon Platinum 8176M,2100.0,4.0,112.0,224,192,733,94.9,2018.0,intel,0.42,3.27,0.85,6.54,2.0
+Xeon Platinum 8176M,,xeon,platinum, 8176,m,,1.0,Intel Xeon Platinum 8176M,2100.0,2.0,56.0,112,192,355,57.3,2018.0,intel,0.51,3.17,1.02,6.34,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,385,48.2,2018.0,intel,0.43,3.44,0.86,6.88,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,2.0,56.0,112,192,457,52.3,2017.0,intel,0.47,4.08,0.93,8.16,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,2.0,56.0,112,192,469,55,2017.0,intel,0.49,4.19,0.98,8.38,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,2.0,56.0,112,192,469,56,2017.0,intel,0.5,4.19,1.0,8.38,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,4.0,112.0,224,384,915,106,2017.0,intel,0.47,4.08,0.95,8.17,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,4.0,112.0,224,384,939,89.8,2018.0,intel,0.4,4.19,0.8,8.38,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz,2500.0,4.0,112.0,224,384,923,85.6,2018.0,intel,0.38,4.12,0.76,8.24,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,96,451,48.7,2017.0,intel,0.43,4.03,0.87,8.05,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,192,936,88.9,2017.0,intel,0.4,4.18,0.79,8.36,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,192,459,58.1,2017.0,intel,0.52,4.1,1.04,8.2,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,96,448,50,2017.0,intel,0.45,4.0,0.89,8.0,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,192,944,82.9,2017.0,intel,0.37,4.21,0.74,8.43,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,192,963,110,2017.0,intel,0.49,4.3,0.98,8.6,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,1.0,28.0,56,48,233,38.7,2017.0,intel,0.69,4.16,1.38,8.32,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,12.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,24.0,672.0,"1,344","2,304","5,816",901,2018.0,intel,0.67,4.33,1.34,8.65,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,6.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,24.0,672.0,1344,2304,"5,968",758,2018.0,intel,0.56,4.44,1.13,8.88,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,11.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,22.0,616.0,"1,232","2,112","5,402",864,2018.0,intel,0.7,4.38,1.4,8.77,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,10.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,20.0,560.0,1120,1920,"4,918",814,2018.0,intel,0.73,4.39,1.45,8.78,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,9.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,18.0,504.0,1008,1728,"4,444",746,2018.0,intel,0.74,4.41,1.48,8.82,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,8.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,16.0,448.0,896,1536,"3,971",695,2018.0,intel,0.78,4.43,1.55,8.86,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,7.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,14.0,392.0,784,1344,"3,497",627,2018.0,intel,0.8,4.46,1.6,8.92,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,6.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,12.0,336.0,672,1152,"2,999",553,2018.0,intel,0.82,4.46,1.65,8.93,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,5.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,20.0,560.0,1120,1920,"5,001",664,2018.0,intel,0.59,4.47,1.19,8.93,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,4.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,16.0,448.0,896,1536,"4,030",572,2018.0,intel,0.64,4.5,1.28,9.0,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,3.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,12.0,336.0,672,1152,"3,048",478,2018.0,intel,0.71,4.54,1.42,9.07,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,1.0,28.0,56,48,237,38.9,2018.0,intel,0.69,4.23,1.39,8.46,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,2.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,8.0,224.0,448,768,"2,048",326,2018.0,intel,0.73,4.57,1.46,9.14,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,96,457,52.4,2018.0,intel,0.47,4.08,0.94,8.16,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,192,942,88.6,2018.0,intel,0.4,4.21,0.79,8.41,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,96,461,49.3,2018.0,intel,0.44,4.12,0.88,8.23,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,5.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,10.0,280.0,560,960,"2,495",466,2018.0,intel,0.83,4.46,1.66,8.91,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,192,471,59.4,2018.0,intel,0.53,4.21,1.06,8.41,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,423,48.9,2017.0,intel,0.44,3.78,0.87,7.55,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,437,50.3,2018.0,intel,0.45,3.9,0.9,7.8,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,432,49.5,2019.0,intel,0.44,3.86,0.88,7.71,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel(R) Xeon(R) Platinum 8180 CPU @2.50GHz,2500.0,2.0,56.0,112,96,430,58.4,2017.0,intel,0.52,3.84,1.04,7.68,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,384,957,99.8,2019.0,intel,0.45,4.27,0.89,8.54,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,8.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,16.0,448.0,896,1536,"3,982",498,2019.0,intel,0.56,4.44,1.11,8.89,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,4.0,112.0,224,384,956,99.6,2019.0,intel,0.44,4.27,0.89,8.54,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,9.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,18.0,504.0,1008,1728,"4,479",558,2019.0,intel,0.55,4.44,1.11,8.89,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,10.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,20.0,560.0,1120,1920,"4,993",631,2019.0,intel,0.56,4.46,1.13,8.92,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,11.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,22.0,616.0,"1,232","2,112","5,479",681,2019.0,intel,0.55,4.45,1.11,8.89,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,12.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,24.0,672.0,"1,344","2,304","5,999",735,2019.0,intel,0.55,4.46,1.09,8.93,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,13.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,26.0,728.0,"1,456","2,496","6,532",787,2019.0,intel,0.54,4.49,1.08,8.97,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,14.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,28.0,784.0,"1,568","2,688","7,031",838,2019.0,intel,0.53,4.48,1.07,8.97,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,15.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,30.0,840.0,1680,2880,"7,561",891,2019.0,intel,0.53,4.5,1.06,9.0,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,16.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,32.0,896.0,1792,3072,"7,967",959,2019.0,intel,0.54,4.45,1.07,8.89,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,426,39.5,2017.0,intel,0.35,3.8,0.71,7.61,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50 GHz (Intel Turbo Boost Technology up to 3.8GHz),2500.0,2.0,56.0,112,96,401,38.4,2018.0,intel,0.34,3.58,0.69,7.16,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,192,454,40.3,2017.0,intel,0.36,4.05,0.72,8.11,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 @2.50 GHz,2500.0,2.0,56.0,112,192,419,67.2,2017.0,intel,0.6,3.74,1.2,7.48,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180,2500.0,2.0,56.0,112,192,450,54.6,2018.0,intel,0.49,4.02,0.97,8.04,2.0
+Xeon Platinum 8180,,xeon,platinum, 8180,,,1.0,Intel Xeon Platinum 8180 2.50GHz,2500.0,2.0,56.0,112,192,423,64.2,2018.0,intel,0.57,3.78,1.15,7.55,2.0
