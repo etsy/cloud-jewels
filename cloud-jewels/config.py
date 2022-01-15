@@ -46,3 +46,10 @@ AMD_FAMILIES = [
     "AMD EPYC Milan",
     "AMD EPYC Rome",
 ]	
+
+
+# -------------------------------------------------
+
+# CONSTANTS FROM RESEARCH
+AVG_INDUSTRY_SERVER_UTILIZATION = .4
+

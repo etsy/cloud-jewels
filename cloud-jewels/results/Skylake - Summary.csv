@@ -1,13 +1,17 @@
 Nodes,3.5308641975308643
 Chips,8.074074074074074
 MHz,2393.8271604938273
+Total Memory (GB),620.2133333333334
 Cores,223.9506172839506
-watts per thread idle,0.6276543209876544
-watts per thread max,4.130246913580247
-watts per core idle,1.2556790123456791
-watts per core max,8.26037037037037
+Total Threads,374.72
+avg. watts @ active idle,254.85749999999993
+avg. watts @ 100%,506.87692307692305
+watts per thread idle,0.57975
+watts per thread max,3.6810344827586228
+watts per core idle,1.2483749999999998
+watts per core max,8.211346153846158
 threads per core,2.0
-cloud jewels,2.3789506172839507
+cloud jewels,1.8202637931034493
 minimum year,2015.0
 maximum year,2020.0
 median year,2018.0

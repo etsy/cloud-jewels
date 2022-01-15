@@ -1,13 +1,16 @@
 import pandas as pd
-from summary_utils import get_summary
+from summary_utils import *
+# TODO: import less from summary_utils
 from config import *
-from generate_cloud_jewels import *
 
 # Generate the spec filepath from its pieces
 spec_filepath = "{}{}{}{}.csv".format(BASE_FILEPATH, BASE_FILENAME, FILENAME_DELIMITER, SPEC)
 
+# Pull in the raw SPEC data
+raw_spec = pd.read_csv(spec_filepath)
+
 # Get a dataframe of cleaned spec data with crucial server model information parsed out
-cleaned_spec = clean_spec_data(spec_filepath)
+cleaned_spec = clean_spec_data(raw_spec)
 parsed_spec = parse_out_processors(cleaned_spec)
 
 # Save to csv for inspection
@@ -24,29 +27,37 @@ cj_summary_df = spec_summary
 for family in GOOGLE_MACHINE_FAMILIES:
 
 	# Generate the spec filepath from its pieces
-	family_filepath = "{}{}{}{}.csv".format(BASE_FILEPATH, BASE_FILENAME, FILENAME_DELIMITER, family)
+    family_filepath = "{}{}{}{}.csv".format(BASE_FILEPATH, BASE_FILENAME, FILENAME_DELIMITER, family)
 
-	# Get a dataframe of cleaned spec data with crucial server model information parsed out
-	cleaned_family = clean_family_data(family_filepath, family)
-	parsed_family = parse_out_processors(cleaned_family)
+    # Read in the raw data file
+    raw_family = pd.read_csv(family_filepath)
+
+    # Rename processor column if we're looking at AMD EPYC data
+    if family in AMD_FAMILIES:
+        raw_family = raw_family.rename(columns={"Model":"processor"})
+    #else:
+        # TODO: other families need the column to be named "processor"
+
+	# Get a dataframe with processor model information parsed out
+    parsed_family = parse_out_processors(raw_family)
 
 	# Save to csv for inspection
-	parsed_family.to_csv("{}/{}{}Parsed.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=False)
+    parsed_family.to_csv("{}/{}{}Parsed.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=False)
 
 	# Get the intersection of this family's data and the SPEC data
-	relevant_entries = get_family_spec_data(parsed_spec, parsed_family)
+    relevant_entries = get_family_spec_data(parsed_spec, parsed_family)
 
 	# Write the relevant matching rows to csv to inspect
-	relevant_entries.to_csv("{}/{}{}Entries.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=False)
+    relevant_entries.to_csv("{}/{}{}Entries.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=False)
 
 	# Generate summary stats & cloud jewels
-	family_summary_df = get_summary_df(relevant_entries, family)
+    family_summary_df = get_summary_df(relevant_entries, family)
 
 	# Save this family's summary to CSV for inspection
-	family_summary_df.to_csv("{}/{}{}Summary.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=True, header=False)
+    family_summary_df.to_csv("{}/{}{}Summary.csv".format(OUTPUT_DIRECTORY, family, FILENAME_DELIMITER), index=True, header=False)
 
 	# Merge this family's summary data to all the others we've generated
-	cj_summary_df = cj_summary_df.join(family_summary_df)
+    cj_summary_df = cj_summary_df.join(family_summary_df)
 
 # Save the whole summary of all families to CSV
 cj_summary_df.to_csv("{}/All Summary.csv".format(OUTPUT_DIRECTORY), index=True)
@@ -56,7 +67,10 @@ cj_summary_df.to_csv("{}/All Summary.csv".format(OUTPUT_DIRECTORY), index=True)
 # Read in the CSV of machine series data
 gcp_series_filepath = "{}{}{}{}.csv".format(BASE_FILEPATH, BASE_FILENAME, FILENAME_DELIMITER, "GCP Machine Series")
 
-gcp_series = clean_gcp_machine_series_data(gcp_series_filepath)
+# Read in the raw data file
+gcp_series_data = pd.read_csv(gcp_series_filepath)
+
+gcp_series = clean_gcp_machine_series_data(gcp_series_data)
 
 # Save the cleaned GCP Machine Series data to CSV for inspection
 gcp_series.to_csv("{}/GCP Machine Series Summary.csv".format(OUTPUT_DIRECTORY), index=False)
