@@ -15,7 +15,6 @@ class Processor:
                  pieces = [],
                  company = "",
                  brand = "",
-                 style = "",
                  model = "",
                  moniker = "",
                  version = ""):
@@ -25,7 +24,6 @@ class Processor:
         self.pieces = pieces
         self.company = company
         self.brand = brand
-        self.style = style
         self.model = model
         self.moniker = moniker
         self.version = version
@@ -96,6 +94,7 @@ brands = [
 brand_regex = r"|".join(brands)
 
 # these are the only makes we see
+# we're not actually parsing these out
 makes = [
     "gold",
     "silver",
@@ -202,15 +201,15 @@ def safe_search(regex, check_string):
 def generate_processor(description):
     processor = Processor(original_description = description) 
     processor.clean_description = clean_description(processor.original_description) 
-    processor.company = safe_search(company_regex, processor.clean_description)
-    processor.brand = safe_search(brand_regex, processor.clean_description)
-    processor.make = safe_search(make_regex, processor.clean_description)
+    processor.company = safe_search(company_regex, processor.clean_description).strip()
+    processor.brand = safe_search(brand_regex, processor.clean_description).strip()
+    processor.make = safe_search(make_regex, processor.clean_description).strip()
     raw_model = safe_search(raw_model_regex, processor.clean_description)
-    processor.model = safe_search(clean_model_regex, raw_model)
-    model_moniker = safe_search(model_moniker_regex, raw_model)
-    model_version = safe_search(model_version_regex, raw_model)
-    standalone_moniker = safe_search(standalone_moniker_regex, processor.clean_description)
-    standalone_version = safe_search(standalone_version_regex, processor.clean_description)
+    processor.model = safe_search(clean_model_regex, raw_model).strip()
+    model_moniker = safe_search(model_moniker_regex, raw_model).strip()
+    model_version = safe_search(model_version_regex, raw_model).strip()
+    standalone_moniker = safe_search(standalone_moniker_regex, processor.clean_description).strip()
+    standalone_version = safe_search(standalone_version_regex, processor.clean_description).strip()
     processor.version = model_version if model_version else standalone_version
     processor.moniker = model_moniker if model_moniker else standalone_moniker
     return processor

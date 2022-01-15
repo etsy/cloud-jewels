@@ -1,112 +1,112 @@
 processor,company,brand,make,model,moniker,version
-Xeon D-1513N,,xeon,, d-1513,n,
-Xeon D-1518,,xeon,, d-1518,,
-Xeon D-1520,,xeon,, d-1520,,
-Xeon D-1521,,xeon,, d-1521,,
-Xeon D-1523N,,xeon,, d-1523,n,
-Xeon D-1527,,xeon,, d-1527,,
-Xeon D-1529,,xeon,, d-1529,,
-Xeon D-1528,,xeon,, d-1528,,
-Xeon D-1531,,xeon,, d-1531,,
-Xeon D-1533N,,xeon,, d-1533,n,
-Xeon D-1537,,xeon,, d-1537,,
-Xeon D-1539,,xeon,, d-1539,,
-Xeon D-1540,,xeon,, d-1540,,
-Xeon D-1541,,xeon,, d-1541,,
-Xeon D-1543N,,xeon,, d-1543,n,
-Xeon D-1548,,xeon,, d-1548,,
-Xeon D-1553N,,xeon,, d-1553,n,
-Xeon D-1557,,xeon,, d-1557,,
-Xeon D-1559,,xeon,, d-1559,,
-Xeon D-1567,,xeon,, d-1567,,
-Xeon D-1571,,xeon,, d-1571,,
-Xeon D-1577,,xeon,, d-1577,,
-Xeon D-1581,,xeon,, d-1581,,
-Xeon D-1587,,xeon,, d-1587,,
-Xeon D-1602,,xeon,, d-1602,,
-Xeon D-1622,,xeon,, d-1622,,
-Xeon D-1627,,xeon,, d-1627,,
-Xeon D-1637,,xeon,, d-1637,,
-Xeon D-1623N,,xeon,, d-1623,n,
-Xeon D-1633N,,xeon,, d-1633,n,
-Xeon D-1649N,,xeon,, d-1649,n,
-Xeon D-1653N,,xeon,, d-1653,n,
-Xeon E3-1285 v4,,xeon,, e3-1285,, v4
-Xeon E3-1258L v4,,xeon,, e3-1258,l, v4
-Xeon E3-1265L v4,,xeon,, e3-1265,l, v4
-Xeon E3-1270L v4,,xeon,, e3-1270,l, v4
-Xeon E3-1278L v4,,xeon,, e3-1278,l, v4
-Xeon E3-1283L v4,,xeon,, e3-1283,l, v4
-Xeon E3-1284L v4,,xeon,, e3-1284,l, v4
-Xeon E3-1285L v4,,xeon,, e3-1285,l, v4
-Xeon E5-1603 v4,,xeon,, e5-1603,, v4
-Xeon E5-1607 v4,,xeon,, e5-1607,, v4
-Xeon E5-1620 v4,,xeon,, e5-1620,, v4
-Xeon E5-1630 v4,,xeon,, e5-1630,, v4
-Xeon E5-1650 v4,,xeon,, e5-1650,, v4
-Xeon E5-1660 v4,,xeon,, e5-1660,, v4
-Xeon E5-1680 v4,,xeon,, e5-1680,, v4
-Xeon E5-2623 v4,,xeon,, e5-2623,, v4
-Xeon E5-2637 v4,,xeon,, e5-2637,, v4
-Xeon E5-2603 v4,,xeon,, e5-2603,, v4
-Xeon E5-2643 v4,,xeon,, e5-2643,, v4
-Xeon E5-2608L v4,,xeon,, e5-2608,l, v4
-Xeon E5-2609 v4,,xeon,, e5-2609,, v4
-Xeon E5-2620 v4,,xeon,, e5-2620,, v4
-Xeon E5-2667 v4,,xeon,, e5-2667,, v4
-Xeon E5-2689A v4,,xeon,, e5-2689,a, v4
-Xeon E5-2618L v4,,xeon,, e5-2618,l, v4
-Xeon E5-2630 v4,,xeon,, e5-2630,, v4
-Xeon E5-2630L v4,,xeon,, e5-2630,l, v4
-Xeon E5-2640 v4,,xeon,, e5-2640,, v4
-Xeon E5-2689 v4,,xeon,, e5-2689,, v4
-Xeon E5-2628L v4,,xeon,, e5-2628,l, v4
-Xeon E5-2650 v4,,xeon,, e5-2650,, v4
-Xeon E5-2666 v4,,xeon,, e5-2666,, v4
-Xeon E5-2687W v4,,xeon,, e5-2687,w, v4
-Xeon E5-2648L v4,,xeon,, e5-2648,l, v4
-Xeon E5-2650L v4,,xeon,, e5-2650,l, v4
-Xeon E5-2658 v4,,xeon,, e5-2658,, v4
-Xeon E5-2660 v4,,xeon,, e5-2660,, v4
-Xeon E5-2680 v4,,xeon,, e5-2680,, v4
-Xeon E5-2690 v4,,xeon,, e5-2690,, v4
-Xeon AWS-1100 v4,,xeon,,,, v4
-Xeon E5-2676 v4,,xeon,, e5-2676,, v4
-Xeon E5-2682 v4,,xeon,, e5-2682,, v4
-Xeon E5-2683 v4,,xeon,, e5-2683,, v4
-Xeon E5-2697A v4,,xeon,, e5-2697,a, v4
-Xeon E5-2686 v4,,xeon,, e5-2686,, v4
-Xeon E5-2695 v4,,xeon,, e5-2695,, v4
-Xeon E5-2697 v4,,xeon,, e5-2697,, v4
-Xeon E5-2673 v4,,xeon,, e5-2673,, v4
-Xeon E5-2679 v4,,xeon,, e5-2679,, v4
-Xeon E5-2698 v4,,xeon,, e5-2698,, v4
-Xeon E5-2696 v4,,xeon,, e5-2696,, v4
-Xeon E5-2699 v4,,xeon,, e5-2699,, v4
-Xeon E5-2699A v4,,xeon,, e5-2699,a, v4
-Xeon E5-2699C v4,,xeon,, e5-2699,c, v4
-Xeon E5-2699R v4,,xeon,, e5-2699,r, v4
-Xeon E5-2699P v4,,xeon,, e5-2699,p, v4
-Xeon E5-4610 v4,,xeon,, e5-4610,, v4
-Xeon E5-4620 v4,,xeon,, e5-4620,, v4
-Xeon E5-4627 v4,,xeon,, e5-4627,, v4
-Xeon E5-4628L v4,,xeon,, e5-4628,l, v4
-Xeon E5-4640 v4,,xeon,, e5-4640,, v4
-Xeon E5-4650 v4,,xeon,, e5-4650,, v4
-Xeon E5-4655 v4,,xeon,, e5-4655,, v4
-Xeon E5-4660 v4,,xeon,, e5-4660,, v4
-Xeon E5-4667 v4,,xeon,, e5-4667,, v4
-Xeon E5-4669 v4,,xeon,, e5-4669,, v4
-Xeon E7-4809 v4,,xeon,, e7-4809,, v4
-Xeon E7-4820 v4,,xeon,, e7-4820,, v4
-Xeon E7-4830 v4,,xeon,, e7-4830,, v4
-Xeon E7-4850 v4,,xeon,, e7-4850,, v4
-Xeon E7-8855 v4,,xeon,, e7-8855,, v4
-Xeon E7-8860 v4,,xeon,, e7-8860,, v4
-Xeon E7-8867 v4,,xeon,, e7-8867,, v4
-Xeon E7-8870 v4,,xeon,, e7-8870,, v4
-Xeon E7-8880 v4,,xeon,, e7-8880,, v4
-Xeon E7-8890 v4,,xeon,, e7-8890,, v4
-Xeon E7-8891 v4,,xeon,, e7-8891,, v4
-Xeon E7-8893 v4,,xeon,, e7-8893,, v4
-Xeon E7-8894 v4,,xeon,, e7-8894,, v4
+Xeon D-1513N,,xeon,,d-1513,n,
+Xeon D-1518,,xeon,,d-1518,,
+Xeon D-1520,,xeon,,d-1520,,
+Xeon D-1521,,xeon,,d-1521,,
+Xeon D-1523N,,xeon,,d-1523,n,
+Xeon D-1527,,xeon,,d-1527,,
+Xeon D-1529,,xeon,,d-1529,,
+Xeon D-1528,,xeon,,d-1528,,
+Xeon D-1531,,xeon,,d-1531,,
+Xeon D-1533N,,xeon,,d-1533,n,
+Xeon D-1537,,xeon,,d-1537,,
+Xeon D-1539,,xeon,,d-1539,,
+Xeon D-1540,,xeon,,d-1540,,
+Xeon D-1541,,xeon,,d-1541,,
+Xeon D-1543N,,xeon,,d-1543,n,
+Xeon D-1548,,xeon,,d-1548,,
+Xeon D-1553N,,xeon,,d-1553,n,
+Xeon D-1557,,xeon,,d-1557,,
+Xeon D-1559,,xeon,,d-1559,,
+Xeon D-1567,,xeon,,d-1567,,
+Xeon D-1571,,xeon,,d-1571,,
+Xeon D-1577,,xeon,,d-1577,,
+Xeon D-1581,,xeon,,d-1581,,
+Xeon D-1587,,xeon,,d-1587,,
+Xeon D-1602,,xeon,,d-1602,,
+Xeon D-1622,,xeon,,d-1622,,
+Xeon D-1627,,xeon,,d-1627,,
+Xeon D-1637,,xeon,,d-1637,,
+Xeon D-1623N,,xeon,,d-1623,n,
+Xeon D-1633N,,xeon,,d-1633,n,
+Xeon D-1649N,,xeon,,d-1649,n,
+Xeon D-1653N,,xeon,,d-1653,n,
+Xeon E3-1285 v4,,xeon,,e3-1285,,v4
+Xeon E3-1258L v4,,xeon,,e3-1258,l,v4
+Xeon E3-1265L v4,,xeon,,e3-1265,l,v4
+Xeon E3-1270L v4,,xeon,,e3-1270,l,v4
+Xeon E3-1278L v4,,xeon,,e3-1278,l,v4
+Xeon E3-1283L v4,,xeon,,e3-1283,l,v4
+Xeon E3-1284L v4,,xeon,,e3-1284,l,v4
+Xeon E3-1285L v4,,xeon,,e3-1285,l,v4
+Xeon E5-1603 v4,,xeon,,e5-1603,,v4
+Xeon E5-1607 v4,,xeon,,e5-1607,,v4
+Xeon E5-1620 v4,,xeon,,e5-1620,,v4
+Xeon E5-1630 v4,,xeon,,e5-1630,,v4
+Xeon E5-1650 v4,,xeon,,e5-1650,,v4
+Xeon E5-1660 v4,,xeon,,e5-1660,,v4
+Xeon E5-1680 v4,,xeon,,e5-1680,,v4
+Xeon E5-2623 v4,,xeon,,e5-2623,,v4
+Xeon E5-2637 v4,,xeon,,e5-2637,,v4
+Xeon E5-2603 v4,,xeon,,e5-2603,,v4
+Xeon E5-2643 v4,,xeon,,e5-2643,,v4
+Xeon E5-2608L v4,,xeon,,e5-2608,l,v4
+Xeon E5-2609 v4,,xeon,,e5-2609,,v4
+Xeon E5-2620 v4,,xeon,,e5-2620,,v4
+Xeon E5-2667 v4,,xeon,,e5-2667,,v4
+Xeon E5-2689A v4,,xeon,,e5-2689,a,v4
+Xeon E5-2618L v4,,xeon,,e5-2618,l,v4
+Xeon E5-2630 v4,,xeon,,e5-2630,,v4
+Xeon E5-2630L v4,,xeon,,e5-2630,l,v4
+Xeon E5-2640 v4,,xeon,,e5-2640,,v4
+Xeon E5-2689 v4,,xeon,,e5-2689,,v4
+Xeon E5-2628L v4,,xeon,,e5-2628,l,v4
+Xeon E5-2650 v4,,xeon,,e5-2650,,v4
+Xeon E5-2666 v4,,xeon,,e5-2666,,v4
+Xeon E5-2687W v4,,xeon,,e5-2687,w,v4
+Xeon E5-2648L v4,,xeon,,e5-2648,l,v4
+Xeon E5-2650L v4,,xeon,,e5-2650,l,v4
+Xeon E5-2658 v4,,xeon,,e5-2658,,v4
+Xeon E5-2660 v4,,xeon,,e5-2660,,v4
+Xeon E5-2680 v4,,xeon,,e5-2680,,v4
+Xeon E5-2690 v4,,xeon,,e5-2690,,v4
+Xeon AWS-1100 v4,,xeon,,,,v4
+Xeon E5-2676 v4,,xeon,,e5-2676,,v4
+Xeon E5-2682 v4,,xeon,,e5-2682,,v4
+Xeon E5-2683 v4,,xeon,,e5-2683,,v4
+Xeon E5-2697A v4,,xeon,,e5-2697,a,v4
+Xeon E5-2686 v4,,xeon,,e5-2686,,v4
+Xeon E5-2695 v4,,xeon,,e5-2695,,v4
+Xeon E5-2697 v4,,xeon,,e5-2697,,v4
+Xeon E5-2673 v4,,xeon,,e5-2673,,v4
+Xeon E5-2679 v4,,xeon,,e5-2679,,v4
+Xeon E5-2698 v4,,xeon,,e5-2698,,v4
+Xeon E5-2696 v4,,xeon,,e5-2696,,v4
+Xeon E5-2699 v4,,xeon,,e5-2699,,v4
+Xeon E5-2699A v4,,xeon,,e5-2699,a,v4
+Xeon E5-2699C v4,,xeon,,e5-2699,c,v4
+Xeon E5-2699R v4,,xeon,,e5-2699,r,v4
+Xeon E5-2699P v4,,xeon,,e5-2699,p,v4
+Xeon E5-4610 v4,,xeon,,e5-4610,,v4
+Xeon E5-4620 v4,,xeon,,e5-4620,,v4
+Xeon E5-4627 v4,,xeon,,e5-4627,,v4
+Xeon E5-4628L v4,,xeon,,e5-4628,l,v4
+Xeon E5-4640 v4,,xeon,,e5-4640,,v4
+Xeon E5-4650 v4,,xeon,,e5-4650,,v4
+Xeon E5-4655 v4,,xeon,,e5-4655,,v4
+Xeon E5-4660 v4,,xeon,,e5-4660,,v4
+Xeon E5-4667 v4,,xeon,,e5-4667,,v4
+Xeon E5-4669 v4,,xeon,,e5-4669,,v4
+Xeon E7-4809 v4,,xeon,,e7-4809,,v4
+Xeon E7-4820 v4,,xeon,,e7-4820,,v4
+Xeon E7-4830 v4,,xeon,,e7-4830,,v4
+Xeon E7-4850 v4,,xeon,,e7-4850,,v4
+Xeon E7-8855 v4,,xeon,,e7-8855,,v4
+Xeon E7-8860 v4,,xeon,,e7-8860,,v4
+Xeon E7-8867 v4,,xeon,,e7-8867,,v4
+Xeon E7-8870 v4,,xeon,,e7-8870,,v4
+Xeon E7-8880 v4,,xeon,,e7-8880,,v4
+Xeon E7-8890 v4,,xeon,,e7-8890,,v4
+Xeon E7-8891 v4,,xeon,,e7-8891,,v4
+Xeon E7-8893 v4,,xeon,,e7-8893,,v4
+Xeon E7-8894 v4,,xeon,,e7-8894,,v4

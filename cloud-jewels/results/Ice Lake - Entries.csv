@@ -1,20 +1,20 @@
 processor_x,company_x,brand,make,model,moniker,version,Nodes,processor_y,MHz,Chips,Cores,Total Threads,Total Memory (GB),avg. watts @ 100%,avg. watts @ active idle,launch_date,company_y,watts per thread idle,watts per thread max,watts per core idle,watts per core max,threads per core
-Xeon Gold 5318Y,,xeon,gold, 5318,y,,4.0,Intel Xeon Gold 5318Y,2100.0,8.0,192.0,384.0,,,472.0,2021.0,intel,1.23,,2.46,,2.0
-Xeon Gold 5318Y,,xeon,gold, 5318,y,,4.0,Intel Xeon Gold 5318Y,2100.0,8.0,192.0,384.0,,,482.0,2021.0,intel,1.26,,2.51,,2.0
-Xeon Gold 6336Y,,xeon,gold, 6336,y,,1.0,Intel Xeon Gold 6336Y Processor,2400.0,2.0,48.0,96.0,256.0,650.0,176.0,2021.0,intel,1.83,6.77,3.67,13.54,2.0
-Xeon Platinum 8352Y,,xeon,platinum, 8352,y,,1.0,Intel Xeon Platinum 8352Y Processor,2200.0,2.0,64.0,128.0,512.0,680.0,156.0,2021.0,intel,1.22,5.31,2.44,10.63,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,580.0,131.0,2021.0,intel,0.82,3.63,1.64,7.25,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,568.0,132.0,2021.0,intel,0.82,3.55,1.65,7.1,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,564.0,135.0,2021.0,intel,0.84,3.52,1.69,7.05,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,550.0,137.0,2021.0,intel,0.86,3.44,1.71,6.88,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,647.0,143.0,2021.0,intel,0.89,4.04,1.79,8.09,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,651.0,119.0,2021.0,intel,0.74,4.07,1.49,8.14,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,619.0,127.0,2021.0,intel,0.79,3.87,1.59,7.74,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,623.0,110.0,2021.0,intel,0.69,3.89,1.38,7.79,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,625.0,129.0,2021.0,intel,0.81,3.91,1.61,7.81,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,468.0,110.0,2021.0,intel,0.69,2.92,1.38,5.85,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.3GHz,2300.0,2.0,80.0,160.0,256.0,609.0,119.0,2021.0,intel,0.74,3.81,1.49,7.61,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380 2.3GHz,2300.0,2.0,80.0,160.0,256.0,609.0,119.0,2021.0,intel,0.74,3.81,1.49,7.61,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,630.0,123.0,2021.0,intel,0.77,3.94,1.54,7.88,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,512.0,633.0,118.0,2021.0,intel,0.74,3.96,1.48,7.91,2.0
-Xeon Platinum 8380,,xeon,platinum, 8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,622.0,101.0,2021.0,intel,0.63,3.89,1.26,7.78,2.0
+Xeon Gold 5318Y,,xeon,gold,5318,y,,4.0,Intel Xeon Gold 5318Y,2100.0,8.0,192.0,384.0,,,472.0,2021.0,intel,1.23,,2.46,,2.0
+Xeon Gold 5318Y,,xeon,gold,5318,y,,4.0,Intel Xeon Gold 5318Y,2100.0,8.0,192.0,384.0,,,482.0,2021.0,intel,1.26,,2.51,,2.0
+Xeon Gold 6336Y,,xeon,gold,6336,y,,1.0,Intel Xeon Gold 6336Y Processor,2400.0,2.0,48.0,96.0,256.0,650.0,176.0,2021.0,intel,1.83,6.77,3.67,13.54,2.0
+Xeon Platinum 8352Y,,xeon,platinum,8352,y,,1.0,Intel Xeon Platinum 8352Y Processor,2200.0,2.0,64.0,128.0,512.0,680.0,156.0,2021.0,intel,1.22,5.31,2.44,10.63,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,580.0,131.0,2021.0,intel,0.82,3.63,1.64,7.25,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,568.0,132.0,2021.0,intel,0.82,3.55,1.65,7.1,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,564.0,135.0,2021.0,intel,0.84,3.52,1.69,7.05,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,550.0,137.0,2021.0,intel,0.86,3.44,1.71,6.88,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,647.0,143.0,2021.0,intel,0.89,4.04,1.79,8.09,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,651.0,119.0,2021.0,intel,0.74,4.07,1.49,8.14,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,619.0,127.0,2021.0,intel,0.79,3.87,1.59,7.74,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.30 GHz,2300.0,2.0,80.0,160.0,256.0,623.0,110.0,2021.0,intel,0.69,3.89,1.38,7.79,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,625.0,129.0,2021.0,intel,0.81,3.91,1.61,7.81,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,468.0,110.0,2021.0,intel,0.69,2.92,1.38,5.85,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.3GHz,2300.0,2.0,80.0,160.0,256.0,609.0,119.0,2021.0,intel,0.74,3.81,1.49,7.61,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380 2.3GHz,2300.0,2.0,80.0,160.0,256.0,609.0,119.0,2021.0,intel,0.74,3.81,1.49,7.61,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,630.0,123.0,2021.0,intel,0.77,3.94,1.54,7.88,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,512.0,633.0,118.0,2021.0,intel,0.74,3.96,1.48,7.91,2.0
+Xeon Platinum 8380,,xeon,platinum,8380,,,1.0,Intel Xeon Platinum 8380,2300.0,2.0,80.0,160.0,256.0,622.0,101.0,2021.0,intel,0.63,3.89,1.26,7.78,2.0

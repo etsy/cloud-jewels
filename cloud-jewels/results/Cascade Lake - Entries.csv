@@ -1,76 +1,76 @@
 processor_x,company_x,brand,make,model,moniker,version,Nodes,processor_y,MHz,Chips,Cores,Total Threads,Total Memory (GB),avg. watts @ 100%,avg. watts @ active idle,launch_date,company_y,watts per thread idle,watts per thread max,watts per core idle,watts per core max,threads per core
-Xeon Silver 4210,,xeon,silver, 4210,,,1.0,Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz,2200.0,2.0,20.0,40.0,768.0,291.0,127.0,2021.0,intel,3.17,7.28,6.35,14.55,2.0
-Xeon Silver 4214,,xeon,silver, 4214,,,1.0,Intel Xeon Silver 4214,2200.0,2.0,24.0,48.0,384.0,289.0,112.0,2021.0,intel,2.33,6.02,4.67,12.04,2.0
-Xeon Gold 5218,,xeon,gold, 5218,,,1.0,Intel Xeon Gold 5218,2300.0,2.0,32.0,64.0,384.0,367.0,114.0,2021.0,intel,1.78,5.73,3.56,11.47,2.0
-Xeon Gold 5220,,xeon,gold, 5220,,,1.0,Intel Xeon Gold 5220,2200.0,2.0,36.0,72.0,192.0,318.0,61.5,2019.0,intel,0.85,4.42,1.71,8.83,2.0
-Xeon Gold 6210U,,xeon,gold, 6210,u,,5.0,Intel(R) Xeon(R) Gold 6210U CPU @ 2.50GHz,2500.0,5.0,100.0,200.0,320.0,877.0,247.0,2020.0,intel,1.24,4.38,2.47,8.77,2.0
-Xeon Gold 6238R,,xeon,gold, 6238,r,,1.0,Intel Xeon Gold 6238R,2200.0,1.0,28.0,56.0,384.0,277.0,92.5,2021.0,intel,1.65,4.95,3.3,9.89,2.0
-Xeon Gold 6252,,xeon,gold, 6252,,,1.0,Intel Xeon Gold 6252 Processor,2100.0,2.0,48.0,96.0,96.0,342.0,54.8,2019.0,intel,0.57,3.56,1.14,7.13,2.0
-Xeon Gold 6252,,xeon,gold, 6252,,,1.0,Intel Xeon Gold 6252,2100.0,1.0,24.0,48.0,384.0,262.0,93.6,2021.0,intel,1.95,5.46,3.9,10.92,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2300.0,2.0,56.0,112.0,192.0,332.0,58.2,2019.0,intel,0.52,2.96,1.04,5.93,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2300.0,4.0,112.0,224.0,384.0,710.0,113.0,2019.0,intel,0.5,3.17,1.01,6.34,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,2.0,56.0,112.0,192.0,367.0,53.6,2019.0,intel,0.48,3.28,0.96,6.55,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,2.0,56.0,112.0,192.0,347.0,48.3,2019.0,intel,0.43,3.1,0.86,6.2,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,8.0,224.0,448.0,768.0,,281.0,2019.0,intel,0.63,,1.25,,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L CPU 2.20 GHz,2200.0,4.0,112.0,224.0,384.0,711.0,119.0,2019.0,intel,0.53,3.17,1.06,6.35,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,4.0,Intel Xeon Platinum 8276L,2200.0,8.0,224.0,448.0,768.0,,315.0,2019.0,intel,0.7,,1.41,,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,4.0,112.0,224.0,384.0,672.0,121.0,2019.0,intel,0.54,3.0,1.08,6.0,2.0
-Xeon Platinum 8276L,,xeon,platinum, 8276,l,,7.0,Intel Xeon Platinum 8276L,2200.0,28.0,784.0,,,,,2019.0,intel,0.0,0.0,,,
-Xeon Platinum 8276M,,xeon,platinum, 8276,m,,1.0,Intel Xeon Platinum 8276M 2.20GHz,2200.0,2.0,56.0,112.0,192.0,416.0,48.1,2019.0,intel,0.43,3.71,0.86,7.43,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,"Intel Xeon Platinum 8280, 2.70 GHz",2700.0,2.0,56.0,112.0,192.0,432.0,49.8,2019.0,intel,0.44,3.86,0.89,7.71,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,192.0,849.0,103.0,2019.0,intel,0.46,3.79,0.92,7.58,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,192.0,942.0,90.1,2019.0,intel,0.4,4.21,0.8,8.41,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,384.0,982.0,119.0,2019.0,intel,0.53,4.38,1.06,8.77,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,384.0,894.0,123.0,2019.0,intel,0.55,3.99,1.1,7.98,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,24.0,672.0,1344.0,2304.0,,781.0,2019.0,intel,0.58,,1.16,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,20.0,560.0,1120.0,1920.0,,675.0,2019.0,intel,0.6,,1.21,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,16.0,448.0,896.0,1536.0,,570.0,2019.0,intel,0.64,,1.27,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,12.0,336.0,672.0,1152.0,,465.0,2019.0,intel,0.69,,1.38,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,8.0,224.0,448.0,768.0,,361.0,2019.0,intel,0.81,,1.61,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,24.0,672.0,1344.0,2304.0,,679.0,2019.0,intel,0.51,,1.01,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,20.0,560.0,1120.0,1920.0,,592.0,2019.0,intel,0.53,,1.06,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,16.0,448.0,896.0,1536.0,,500.0,2019.0,intel,0.56,,1.12,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,12.0,336.0,672.0,1152.0,,421.0,2019.0,intel,0.63,,1.25,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,8.0,224.0,448.0,768.0,,330.0,2019.0,intel,0.74,,1.47,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,2.0,56.0,112.0,192.0,474.0,56.8,2019.0,intel,0.51,4.23,1.01,8.46,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,2.0,56.0,112.0,192.0,435.0,64.2,2019.0,intel,0.57,3.88,1.15,7.77,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,1.0,28.0,56.0,48.0,235.0,37.3,2019.0,intel,0.67,4.2,1.33,8.39,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,12.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,24.0,672.0,1344.0,2304.0,,807.0,2019.0,intel,0.6,,1.2,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,11.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,22.0,616.0,1232.0,2112.0,,756.0,2019.0,intel,0.61,,1.23,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,10.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,20.0,560.0,1120.0,1920.0,,700.0,2019.0,intel,0.63,,1.25,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,9.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,18.0,504.0,1008.0,1728.0,,645.0,2019.0,intel,0.64,,1.28,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,8.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,16.0,448.0,896.0,1536.0,,598.0,2019.0,intel,0.67,,1.33,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,7.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,14.0,392.0,784.0,1344.0,,535.0,2019.0,intel,0.68,,1.36,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,12.0,336.0,672.0,1152.0,,477.0,2019.0,intel,0.71,,1.42,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,1.0,28.0,56.0,48.0,217.0,39.4,2019.0,intel,0.7,3.88,1.41,7.75,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,10.0,280.0,560.0,960.0,,425.0,2019.0,intel,0.76,,1.52,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,10.0,280.0,560.0,960.0,,459.0,2019.0,intel,0.82,,1.64,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,8.0,224.0,448.0,768.0,,398.0,2019.0,intel,0.89,,1.78,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,6.0,168.0,336.0,576.0,,328.0,2019.0,intel,0.98,,1.95,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,384.0,982.0,257.0,2019.0,intel,1.15,4.38,2.29,8.77,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,11.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,22.0,616.0,1232.0,2112.0,,845.0,2019.0,intel,0.69,,1.37,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,10.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,20.0,560.0,1120.0,1920.0,,779.0,2019.0,intel,0.7,,1.39,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,9.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,18.0,504.0,1008.0,1728.0,,714.0,2019.0,intel,0.71,,1.42,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,8.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,16.0,448.0,896.0,1536.0,,658.0,2019.0,intel,0.73,,1.47,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,7.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,14.0,392.0,784.0,1344.0,,585.0,2019.0,intel,0.75,,1.49,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,12.0,336.0,672.0,1152.0,,518.0,2019.0,intel,0.77,,1.54,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,12.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,24.0,672.0,1344.0,2304.0,,922.0,2019.0,intel,0.69,,1.37,,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,415.0,49.9,2019.0,intel,0.45,3.71,0.89,7.41,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,414.0,50.0,2019.0,intel,0.45,3.7,0.89,7.39,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,419.0,52.2,2019.0,intel,0.47,3.74,0.93,7.48,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,422.0,51.5,2019.0,intel,0.46,3.77,0.92,7.54,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,421.0,51.7,2019.0,intel,0.46,3.76,0.92,7.52,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,414.0,50.3,2019.0,intel,0.45,3.7,0.9,7.39,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,410.0,48.6,2020.0,intel,0.43,3.66,0.87,7.32,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,414.0,48.2,2020.0,intel,0.43,3.7,0.86,7.39,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,384.0,919.0,102.0,2020.0,intel,0.46,4.1,0.91,8.21,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 CPU 2.70 GHz,2700.0,1.0,28.0,56.0,96.0,177.0,50.0,2019.0,intel,0.89,3.16,1.79,6.32,2.0
-Xeon Platinum 8280,,xeon,platinum, 8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,385.0,48.6,2019.0,intel,0.43,3.44,0.87,6.88,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,412.0,62.4,2019.0,intel,0.56,3.68,1.11,7.36,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,405.0,47.4,2019.0,intel,0.42,3.62,0.85,7.23,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,388.0,58.3,2019.0,intel,0.52,3.46,1.04,6.93,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,4.0,112.0,224.0,384.0,808.0,120.0,2019.0,intel,0.54,3.61,1.07,7.21,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,4.0,112.0,224.0,384.0,963.0,95.5,2019.0,intel,0.43,4.3,0.85,8.6,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,4.0,112.0,224.0,384.0,915.0,94.2,2019.0,intel,0.42,4.08,0.84,8.17,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L 2.70 GHz,2700.0,2.0,56.0,112.0,96.0,414.0,37.7,2019.0,intel,0.34,3.7,0.67,7.39,2.0
-Xeon Platinum 8280L,,xeon,platinum, 8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,2.0,56.0,112.0,384.0,426.0,61.8,2019.0,intel,0.55,3.8,1.1,7.61,2.0
+Xeon Silver 4210,,xeon,silver,4210,,,1.0,Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz,2200.0,2.0,20.0,40.0,768.0,291.0,127.0,2021.0,intel,3.17,7.28,6.35,14.55,2.0
+Xeon Silver 4214,,xeon,silver,4214,,,1.0,Intel Xeon Silver 4214,2200.0,2.0,24.0,48.0,384.0,289.0,112.0,2021.0,intel,2.33,6.02,4.67,12.04,2.0
+Xeon Gold 5218,,xeon,gold,5218,,,1.0,Intel Xeon Gold 5218,2300.0,2.0,32.0,64.0,384.0,367.0,114.0,2021.0,intel,1.78,5.73,3.56,11.47,2.0
+Xeon Gold 5220,,xeon,gold,5220,,,1.0,Intel Xeon Gold 5220,2200.0,2.0,36.0,72.0,192.0,318.0,61.5,2019.0,intel,0.85,4.42,1.71,8.83,2.0
+Xeon Gold 6210U,,xeon,gold,6210,u,,5.0,Intel(R) Xeon(R) Gold 6210U CPU @ 2.50GHz,2500.0,5.0,100.0,200.0,320.0,877.0,247.0,2020.0,intel,1.24,4.38,2.47,8.77,2.0
+Xeon Gold 6238R,,xeon,gold,6238,r,,1.0,Intel Xeon Gold 6238R,2200.0,1.0,28.0,56.0,384.0,277.0,92.5,2021.0,intel,1.65,4.95,3.3,9.89,2.0
+Xeon Gold 6252,,xeon,gold,6252,,,1.0,Intel Xeon Gold 6252 Processor,2100.0,2.0,48.0,96.0,96.0,342.0,54.8,2019.0,intel,0.57,3.56,1.14,7.13,2.0
+Xeon Gold 6252,,xeon,gold,6252,,,1.0,Intel Xeon Gold 6252,2100.0,1.0,24.0,48.0,384.0,262.0,93.6,2021.0,intel,1.95,5.46,3.9,10.92,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2300.0,2.0,56.0,112.0,192.0,332.0,58.2,2019.0,intel,0.52,2.96,1.04,5.93,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2300.0,4.0,112.0,224.0,384.0,710.0,113.0,2019.0,intel,0.5,3.17,1.01,6.34,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,2.0,56.0,112.0,192.0,367.0,53.6,2019.0,intel,0.48,3.28,0.96,6.55,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,2.0,56.0,112.0,192.0,347.0,48.3,2019.0,intel,0.43,3.1,0.86,6.2,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,8.0,224.0,448.0,768.0,,281.0,2019.0,intel,0.63,,1.25,,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L CPU 2.20 GHz,2200.0,4.0,112.0,224.0,384.0,711.0,119.0,2019.0,intel,0.53,3.17,1.06,6.35,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,4.0,Intel Xeon Platinum 8276L,2200.0,8.0,224.0,448.0,768.0,,315.0,2019.0,intel,0.7,,1.41,,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,1.0,Intel Xeon Platinum 8276L,2200.0,4.0,112.0,224.0,384.0,672.0,121.0,2019.0,intel,0.54,3.0,1.08,6.0,2.0
+Xeon Platinum 8276L,,xeon,platinum,8276,l,,7.0,Intel Xeon Platinum 8276L,2200.0,28.0,784.0,,,,,2019.0,intel,0.0,0.0,,,
+Xeon Platinum 8276M,,xeon,platinum,8276,m,,1.0,Intel Xeon Platinum 8276M 2.20GHz,2200.0,2.0,56.0,112.0,192.0,416.0,48.1,2019.0,intel,0.43,3.71,0.86,7.43,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,"Intel Xeon Platinum 8280, 2.70 GHz",2700.0,2.0,56.0,112.0,192.0,432.0,49.8,2019.0,intel,0.44,3.86,0.89,7.71,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,192.0,849.0,103.0,2019.0,intel,0.46,3.79,0.92,7.58,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,192.0,942.0,90.1,2019.0,intel,0.4,4.21,0.8,8.41,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,384.0,982.0,119.0,2019.0,intel,0.53,4.38,1.06,8.77,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,384.0,894.0,123.0,2019.0,intel,0.55,3.99,1.1,7.98,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,24.0,672.0,1344.0,2304.0,,781.0,2019.0,intel,0.58,,1.16,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,20.0,560.0,1120.0,1920.0,,675.0,2019.0,intel,0.6,,1.21,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,16.0,448.0,896.0,1536.0,,570.0,2019.0,intel,0.64,,1.27,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,12.0,336.0,672.0,1152.0,,465.0,2019.0,intel,0.69,,1.38,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,8.0,224.0,448.0,768.0,,361.0,2019.0,intel,0.81,,1.61,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,24.0,672.0,1344.0,2304.0,,679.0,2019.0,intel,0.51,,1.01,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,20.0,560.0,1120.0,1920.0,,592.0,2019.0,intel,0.53,,1.06,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,16.0,448.0,896.0,1536.0,,500.0,2019.0,intel,0.56,,1.12,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,12.0,336.0,672.0,1152.0,,421.0,2019.0,intel,0.63,,1.25,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,8.0,224.0,448.0,768.0,,330.0,2019.0,intel,0.74,,1.47,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,2.0,56.0,112.0,192.0,474.0,56.8,2019.0,intel,0.51,4.23,1.01,8.46,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,2.0,56.0,112.0,192.0,435.0,64.2,2019.0,intel,0.57,3.88,1.15,7.77,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,1.0,28.0,56.0,48.0,235.0,37.3,2019.0,intel,0.67,4.2,1.33,8.39,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,12.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,24.0,672.0,1344.0,2304.0,,807.0,2019.0,intel,0.6,,1.2,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,11.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,22.0,616.0,1232.0,2112.0,,756.0,2019.0,intel,0.61,,1.23,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,10.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,20.0,560.0,1120.0,1920.0,,700.0,2019.0,intel,0.63,,1.25,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,9.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,18.0,504.0,1008.0,1728.0,,645.0,2019.0,intel,0.64,,1.28,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,8.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,16.0,448.0,896.0,1536.0,,598.0,2019.0,intel,0.67,,1.33,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,7.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,14.0,392.0,784.0,1344.0,,535.0,2019.0,intel,0.68,,1.36,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,12.0,336.0,672.0,1152.0,,477.0,2019.0,intel,0.71,,1.42,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,1.0,28.0,56.0,48.0,217.0,39.4,2019.0,intel,0.7,3.88,1.41,7.75,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz,2700.0,10.0,280.0,560.0,960.0,,425.0,2019.0,intel,0.76,,1.52,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,5.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,10.0,280.0,560.0,960.0,,459.0,2019.0,intel,0.82,,1.64,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,4.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,8.0,224.0,448.0,768.0,,398.0,2019.0,intel,0.89,,1.78,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,3.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,6.0,168.0,336.0,576.0,,328.0,2019.0,intel,0.98,,1.95,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,2.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,4.0,112.0,224.0,384.0,982.0,257.0,2019.0,intel,1.15,4.38,2.29,8.77,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,11.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,22.0,616.0,1232.0,2112.0,,845.0,2019.0,intel,0.69,,1.37,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,10.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,20.0,560.0,1120.0,1920.0,,779.0,2019.0,intel,0.7,,1.39,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,9.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,18.0,504.0,1008.0,1728.0,,714.0,2019.0,intel,0.71,,1.42,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,8.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,16.0,448.0,896.0,1536.0,,658.0,2019.0,intel,0.73,,1.47,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,7.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,14.0,392.0,784.0,1344.0,,585.0,2019.0,intel,0.75,,1.49,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,6.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,12.0,336.0,672.0,1152.0,,518.0,2019.0,intel,0.77,,1.54,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,12.0,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700.0,24.0,672.0,1344.0,2304.0,,922.0,2019.0,intel,0.69,,1.37,,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,415.0,49.9,2019.0,intel,0.45,3.71,0.89,7.41,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,414.0,50.0,2019.0,intel,0.45,3.7,0.89,7.39,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,419.0,52.2,2019.0,intel,0.47,3.74,0.93,7.48,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,422.0,51.5,2019.0,intel,0.46,3.77,0.92,7.54,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,421.0,51.7,2019.0,intel,0.46,3.76,0.92,7.52,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280,2700.0,2.0,56.0,112.0,192.0,414.0,50.3,2019.0,intel,0.45,3.7,0.9,7.39,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,410.0,48.6,2020.0,intel,0.43,3.66,0.87,7.32,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,414.0,48.2,2020.0,intel,0.43,3.7,0.86,7.39,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,4.0,112.0,224.0,384.0,919.0,102.0,2020.0,intel,0.46,4.1,0.91,8.21,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 CPU 2.70 GHz,2700.0,1.0,28.0,56.0,96.0,177.0,50.0,2019.0,intel,0.89,3.16,1.79,6.32,2.0
+Xeon Platinum 8280,,xeon,platinum,8280,,,1.0,Intel Xeon Platinum 8280 2.70GHz,2700.0,2.0,56.0,112.0,192.0,385.0,48.6,2019.0,intel,0.43,3.44,0.87,6.88,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,412.0,62.4,2019.0,intel,0.56,3.68,1.11,7.36,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,405.0,47.4,2019.0,intel,0.42,3.62,0.85,7.23,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,2.0,56.0,112.0,192.0,388.0,58.3,2019.0,intel,0.52,3.46,1.04,6.93,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L,2700.0,4.0,112.0,224.0,384.0,808.0,120.0,2019.0,intel,0.54,3.61,1.07,7.21,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,4.0,112.0,224.0,384.0,963.0,95.5,2019.0,intel,0.43,4.3,0.85,8.6,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,4.0,112.0,224.0,384.0,915.0,94.2,2019.0,intel,0.42,4.08,0.84,8.17,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L 2.70 GHz,2700.0,2.0,56.0,112.0,96.0,414.0,37.7,2019.0,intel,0.34,3.7,0.67,7.39,2.0
+Xeon Platinum 8280L,,xeon,platinum,8280,l,,1.0,Intel Xeon Platinum 8280L 2.70GHz,2700.0,2.0,56.0,112.0,384.0,426.0,61.8,2019.0,intel,0.55,3.8,1.1,7.61,2.0
