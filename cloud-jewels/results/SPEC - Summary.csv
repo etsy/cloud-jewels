@@ -1,0 +1,18 @@
+,SPEC
+Nodes,2.2912751677852348
+Chips,5.842953020134228
+MHz,2520.4604026845636
+Total Memory (GB),229.4673913043478
+Cores,86.73288590604027
+Total Threads,154.94986449864498
+avg. watts @ active idle,161.4166392318245
+avg. watts @ 100%,329.2792544570502
+watts per thread idle,4.978315068493154
+watts per thread max,12.60629807692309
+watts per core idle,6.53936899862827
+watts per core max,18.40207455429497
+threads per core,1.7978726287262872
+cloud jewels,8.02950827186513
+minimum year,2007.0
+maximum year,2021.0
+median year,2012.0

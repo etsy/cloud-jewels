@@ -1,0 +1,30 @@
+Machine series,vCPUs,Memory (per vCPU),Processors,Custom VMs,Local SSDs,Sustained-use discounts,Preemptible VMs
+E2* General-purpose,2–32,0.5–8 GB†,"Skylake
+Broadwell
+Haswell
+AMD EPYC Rome",Yes,No,No,Yes
+E2* shared-core,0.25–1,0.5–8 GB,"Skylake
+Broadwell
+Haswell
+AMD EPYC Rome",Yes,No,No,Yes
+N2 General-purpose,2–128,0.5–8 GB,"Cascade Lake
+Ice Lake",Yes,Yes,Yes,Yes
+N2D‡ General-purpose,2–224,0.5–8 GB,"AMD EPYC Rome
+AMD EPYC Milan",Yes,Yes,Yes,Yes
+T2D General-purpose,1–60,4 GB,AMD EPYC Milan,No,No,No,Yes
+N1 General-purpose,1–96,0.95–6.5 GB,"Skylake
+Broadwell
+Haswell
+Sandy Bridge
+Ivy Bridge",Yes,Yes,Yes,Yes
+N1 shared-core,0.2–0.5,3.0–3.4 GB,"Skylake
+Broadwell
+Haswell
+Ivy Bridge
+Sandy Bridge",No,No,Yes,Yes
+C2 Compute-optimized,4–60,4 GB,Cascade Lake,No,Yes,Yes,Yes
+C2D Compute-optimized,2–112,4 GB,AMD EPYC Milan,No,Yes,No,Yes
+M1 Memory-optimized megamem,96,14.9 GB,Skylake,No,Yes,Yes,Yes
+M1 Memory-optimized ultramem,40–160,28.3 GB,Broadwell E7,No,No,Yes,Yes
+M2 Memory-optimized ultramem,208–416,28.3 GB,Cascade Lake,No,No,Yes,No
+A2 Accelerator-optimized high-gpu,12–96,7 GB,Cascade Lake,No,Yes,No,Yes

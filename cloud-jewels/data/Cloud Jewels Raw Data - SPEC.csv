@@ -1,0 +1,2412 @@
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,CPU Description,MHz,Chips,Cores,"Total
+Threads","Total
+Memory (GB)","ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle","Result
+(Overall ssj_ops/watt)"
+ASUSTeK Computer Inc.,"RS720-E9/RS8
+Dec 6, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,386,401",385,48.2,"12,727"
+ASUSTeK Computer Inc.,"RS720Q-E9-RS8
+None
+May 10, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8176M,2100,8,224,448,768,"19,257,841","1,417",193,"11,935"
+ASUSTeK Computer Inc.,"RS720-E9-RS8
+Jul 3, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L,2700,2,56,112,192,"5,862,238",412,62.4,"14,066"
+ASUSTeK Computer Inc.,"RS720-E9-RS8
+Jul 17, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L,2700,2,56,112,192,"5,845,032",405,47.4,"14,274"
+ASUSTeK Computer Inc.,"RS500A-E10-PS4
+Jan 21, 2020 | HTML | Text",1,Oracle,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"6,064,779",214,51.4,"20,908"
+ASUSTeK Computer Inc.,"RS500A-E10-PS4
+Jan 21, 2020 | HTML | Text",1,Oracle,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"5,879,510",206,56.4,"21,168"
+ASUSTeK Computer Inc.,"RS700A-E9-RS4V2
+Apr 8, 2020 | HTML | Text",1,Oracle,AMD EPYC 7742 2.25Ghz,2250,2,128,256,256,"11,702,137",430,106,"20,214"
+ASUSTeK Computer Inc.,"RS700A-E9-RS4V2
+Apr 8, 2020 | HTML | Text",1,Oracle,AMD EPYC 7742 2.25Ghz,2250,2,128,256,256,"11,945,201",425,92.9,"20,350"
+ASUSTeK Computer Inc.,"RS620SA-E10-RS12
+RS620SA-E10
+Oct 7, 2020 | HTML | Text",6,Oracle,AMD EPYC 7742 2.25Ghz,2250,6,384,768,768,"36,876,127","1,140",228,"24,238"
+ASUSTeK Computer Inc.,"RS620SA-E10-RS12
+RS620SA-E10
+Oct 7, 2020 | HTML | Text",6,Oracle,AMD EPYC 7742 2.25Ghz,2250,6,384,768,768,"36,645,962","1,141",250,"24,507"
+"ASUSTeK Computer Inc.
+ASUSTeK Company Inc.","ASUS RS160-E5 (Intel Xeon L5430 Processor, 2.66 GHz)
+Nov 20, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2666,2,8,8,8,"278,927",173,89.4,"1,020"
+"ASUSTeK Computer Inc.
+ASUSTeK Company Inc.","ASUS RS160-E5 (Intel Xeon L5420 Processor, 2.50 GHz)
+Nov 20, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5420,2500,2,8,8,8,"270,621",170,86,"1,009"
+"ASUSTeK Computer Inc.
+ASUSTeK Company Inc.","ASUS RS100-E5 (Intel Xeon X3360 Processor, 2.83 GHz)
+Jan 2, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X3360 Processor,2833,1,4,4,4,"165,064",118,56.7,905
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Acer Incoporated
+Acer Incorporated","Acer AR360 F2
+Jan 9, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,435,697",315,69.4,"3,900"
+Acer Incorporated,"Altos R520
+Oct 9, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon E5450,3000,2,8,8,16,"307,704",269,155,731
+Acer Incorporated,"Altos R720
+Dec 4, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"273,032",206,135,810
+Acer Incorporated,"Altos R520
+Dec 17, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"274,923",195,125,863
+Acer Incorporated,"Altos G540 M2
+Sep 23, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X5570,2930,2,8,16,8,"550,441",254,121,"1,522"
+Acer Incorporated,"Gateway GR160 F1
+Nov 18, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5520,2266,2,8,16,8,"446,552",196,81.4,"1,515"
+Acer Incorporated,"Gateway GW1000-GW170 F1
+GW1000
+Nov 18, 2009 | HTML | Text",2,Oracle Corporation,Intel Xeon L5520,2266,4,16,32,16,"900,762",386,145,"1,588"
+Acer Incorporated,"Gateway GW2000h-GW170h F1
+GW2000h
+Dec 30, 2009 | HTML | Text",4,Oracle Corporation,Intel Xeon L5520,2266,8,32,64,32,"1,803,189",748,260,"1,674"
+Acer Incorporated,"Acer AR380 F1
+Apr 7, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"466,636",197,88.1,"1,597"
+Acer Incorporated,"Gateway GR380 F1
+Apr 7, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"465,883",198,88.2,"1,592"
+Acer Incorporated,"Acer AT350 F1
+Apr 21, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"466,089",193,88.5,"1,618"
+Acer Incorporated,"Gateway GT350 F1
+Apr 21, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"465,545",192,87.7,"1,630"
+Acer Incorporated,"Acer AT110 F1
+May 19, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor L3360,2833,1,4,4,4,"183,161",95.4,49.6,"1,243"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"Gateway GT110 F1
+May 19, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor L3360,2833,1,4,4,4,"184,372",94.5,47.7,"1,263"
+Acer Incorporated,"Gateway GR380 F1 (Intel Xeon X5670, 2.93 GHz)
+Jul 14, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"905,129",260,76.6,"2,519"
+Acer Incorporated,"Acer AR380 F1 (Intel Xeon X5670, 2.93 GHz)
+Jul 14, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"895,860",259,76.6,"2,502"
+Acer Incorporated,"Gateway GW2000ht-GW170ht F1
+Gateway GW2000ht
+Aug 25, 2010 | HTML | Text",2,IBM Corporation,Intel Xeon X5670,2933,4,24,48,24,"1,772,060",596,204,"2,098"
+Acer Incorporated,"Acer AW2000ht-AW170ht F1
+Acer AW2000ht
+Aug 25, 2010 | HTML | Text",2,IBM Corporation,Intel Xeon X5670,2933,4,24,48,24,"1,775,143",597,205,"2,099"
+Acer Incorporated,"Gateway GR360 F1 (Intel Xeon X5670, 2.93 GHz)
+Sep 22, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"891,056",272,73.3,"2,426"
+Acer Incorporated,"Acer AR360 F1 (Intel Xeon X5670, 2.93 GHz)
+Sep 22, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"890,144",272,73.6,"2,414"
+Acer Incorporated,"Acer AT350 F1 (Intel Xeon X5670, 2.93 GHz)
+Oct 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"905,850",259,78.8,"2,518"
+Acer Incorporated,"Gateway GT350 F1(Intel Xeon X5670, 2.93 GHz)
+Oct 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"903,549",257,78.4,"2,531"
+Acer Incorporated,"Gateway GT150 F1(Intel Xeon X5670, 2.93 GHz)
+Oct 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"904,396",245,65.5,"2,716"
+Acer Incorporated,"Acer AT150 F1(Intel Xeon X5670, 2.93 GHz)
+Oct 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"901,396",244,65.4,"2,724"
+Acer Incorporated,"Acer AR160 F1(Intel Xeon X5670, 2.93 GHz)
+Nov 3, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"898,544",267,76.9,"2,471"
+Acer Incorporated,"Gateway GR160 F1(Intel Xeon X5670, 2.93 GHz)
+Nov 3, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"893,973",267,76.9,"2,477"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"Gateway GT115 F1 (AMD Opteron 4164EE, 1.80 GHz)
+Nov 3, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 4164EE,1800,1,6,6,8,"215,041",70.3,32,"1,971"
+Acer Incorporated,"Acer AT115 F1 (AMD Opteron 4164EE, 1.80 GHz)
+Nov 3, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 4164EE,1800,1,6,6,8,"215,832",70.2,31.9,"1,980"
+Acer Incorporated,"Gateway GW2000h-GW175h F1
+Gateway GW2000h
+Nov 10, 2010 | HTML | Text",4,IBM Corporation,AMD Opteron 6174,2200,8,96,96,64,"3,720,023","1,111",284,"2,481"
+Acer Incorporated,"Acer AW2000h-AW175h F1
+Acer AW2000h
+Nov 10, 2010 | HTML | Text",4,IBM Corporation,AMD Opteron 6174,2200,8,96,96,64,"3,724,716","1,113",284,"2,474"
+Acer Incorporated,"Acer AR385 F1 (AMD Opteron 6174, 2.20 GHz)
+Nov 18, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,2,24,24,16,"935,214",273,86.7,"2,424"
+Acer Incorporated,"Gateway GR385 F1 (AMD Opteron 6174, 2.20 GHz)
+Nov 18, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,2,24,24,16,"932,415",273,86.5,"2,426"
+Acer Incorporated,"Acer AR585 F1
+Nov 18, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,4,48,48,32,"1,812,580",518,143,"2,562"
+Acer Incorporated,"Gateway GR585 F1
+Nov 18, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,4,48,48,32,"1,808,578",518,142,"2,555"
+Acer Incorporated,"Acer AR320 F1 (Intel Xeon X3470, 2.93 GHz)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"308,318",124,39.6,"1,911"
+Acer Incorporated,"Gateway GR320 F1 (Intel Xeon X3470, 2.93 GHz)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"312,716",125,39.6,"1,932"
+Acer Incorporated,"Gateway GT310 F1 (Intel Xeon X3470, 2.93 GHz)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"313,001",127,34.6,"1,987"
+Acer Incorporated,"Acer AR180 F1(Intel Xeon X5670, 2.93 GHz)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"897,310",265,76.4,"2,485"
+Acer Incorporated,"Gateway GR180 F1(Intel Xeon X5670, 2.93 GHz)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"896,101",265,76.5,"2,484"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"AT310 F1
+Feb 17, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"309,401",125,35.4,"2,004"
+Acer Incorporated,"Gateway GW2000h-GW170h F1
+Gateway GW2000h
+Mar 23, 2011 | HTML | Text",4,IBM Corporation,Intel Xeon X5675,3067,8,48,96,48,"3,567,236","1,025",270,"2,659"
+Acer Incorporated,"Gateway GW2000h-GW170h F1
+Gateway GW2000h
+Mar 23, 2011 | HTML | Text",4,IBM Corporation,Intel Xeon X5675,3067,8,48,96,96,"3,732,850","1,014",269,"2,795"
+Acer Incorporated,"Acer AW2000h-AW170h F1
+Acer AW2000h
+Apr 7, 2011 | HTML | Text",4,IBM Corporation,Intel Xeon X5675,3067,8,48,96,96,"3,719,937","1,016",282,"2,769"
+Acer Incorporated,"Gateway GR585 F1
+May 4, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6168,1900,4,48,48,32,"1,664,712",524,192,"2,210"
+Acer Incorporated,"Gateway GR585 F1
+May 4, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6176,2300,4,48,48,32,"1,861,672",571,185,"2,350"
+Acer Incorporated,"Gateway GR385 F1
+May 5, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6176,2300,2,24,24,16,"959,188",295,97.3,"2,291"
+Acer Incorporated,"Gateway GT350 F1
+May 11, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,12,"900,626",264,79.5,"2,462"
+Acer Incorporated,"Gateway GT110 F2 (Intel Xeon E3-1270)
+May 18, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1270,3400,1,4,8,8,"395,190",102,21.4,"3,270"
+Acer Incorporated,"Acer AT110 F2 (Intel Xeon E3-1270)
+May 18, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1270,3400,1,4,8,8,"393,522",102,21.3,"3,260"
+Acer Incorporated,"Acer AC100
+Sep 13, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1260L,2400,1,4,8,8,"295,443",58,21.5,"3,741"
+Acer Incorporated,"Acer AR585 F1
+Mar 14, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6238,2600,4,48,48,64,"1,898,162",559,127,"2,552"
+Acer Incorporated,"Acer AR385 F1
+Mar 14, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6238,2600,2,24,24,32,"987,946",290,89.8,"2,506"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"Acer AR385 F1
+Apr 4, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,2,32,32,32,"1,183,480",307,94.9,"2,812"
+Acer Incorporated,"Acer AR585 F1
+Jun 5, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,4,64,64,64,"2,205,974",588,130,"2,803"
+Acer Incorporated,"Acer AR585 F1
+Jun 14, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,4,64,64,256,"2,220,373",779,187,"2,076"
+Acer Incorporated,"Acer AR585 F1
+Jun 14, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,4,64,64,256,"2,228,464",713,177,"2,284"
+Acer Incorporated,"Acer AR585 F1
+Jun 21, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6278,2400,4,64,64,64,"2,307,328",584,127,"2,969"
+Acer Incorporated,"Acer AR585 F1
+Jun 21, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6278,2400,4,64,64,256,"2,299,931",786,186,"2,136"
+Acer Incorporated,"Acer AR585 F1
+Jun 21, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6278,2400,4,64,64,256,"2,296,333",713,176,"2,362"
+Acer Incorporated,"Acer AR380 F2
+Jul 11, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2630,2300,2,12,24,128,"946,189",325,99.6,"2,219"
+Acer Incorporated,"Acer AR380 F2
+Jul 11, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2640,2500,2,12,24,128,"1,007,444",307,99.5,"2,454"
+Acer Incorporated,"Acer AR380 F2
+Jul 11, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,128,"1,347,230",409,103,"2,705"
+Acer Incorporated,"Acer AR380 F2
+Jul 11, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2640,2500,2,12,24,32,"990,555",254,81.9,"2,980"
+Acer Incorporated,"Acer AT350 F2
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2640,2500,2,12,24,32,"1,006,865",255,83.5,"3,031"
+Acer Incorporated,"Acer AT350 F2
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,128,"1,365,171",414,96.6,"2,824"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"Acer AT350 F2
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2630,2300,2,12,24,128,"961,609",323,96,"2,330"
+Acer Incorporated,"Acer AT350 F2
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2640,2500,2,12,24,128,"1,028,960",327,98.2,"2,464"
+Acer Incorporated,"Acer AT350 F2
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,128,"1,347,230",409,103,"2,705"
+Acer Incorporated,"Acer AW2000h-AW170h F2
+Acer AW2000h
+Oct 3, 2012 | HTML | Text",4,Oracle Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,8,64,128,128,"5,286,503","1,275",331,"3,501"
+Acer Incorporated,"Acer AW2000h-Aw170h F2
+Acer AW2000h
+Jan 4, 2013 | HTML | Text",4,IBM Corporation,Intel Xeon E5-2670 2.6 GHz (Intel Turbo Boost Technology up to 3.30 GHz),2600,8,64,128,512,"6,419,253","1,700",364,"3,400"
+Acer Incorporated,"Acer AR580 F2
+Jan 9, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4650 2.7 GHz (Intel Turbo Boost Technology up to 3.30 GHz),2700,4,32,64,32,"2,980,035",667,134,"4,134"
+Acer Incorporated,"Acer AR585 F1
+Jan 9, 2013 | HTML | Text",1,IBM Corporation,AMD Opteron 6380,2500,4,64,64,64,"3,151,008",581,149,"4,096"
+Acer Incorporated,"Altos R380 F2
+May 8, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,436,606",316,71.5,"4,036"
+Acer Incorporated,"Altos R360 F2
+May 8, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,429,746",275,80.4,"4,142"
+Acer Incorporated,"Acer AR585 F1
+Jun 26, 2013 | HTML | Text",1,IBM Corporation,AMD Opteron 6344,2600,4,48,48,64,"2,482,740",511,145,"3,739"
+Acer Incorporated,"Acer AR580 F2
+Jun 26, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4607 2.2 GHz,2200,4,24,48,64,"1,646,236",368,109,"3,659"
+Acer Incorporated,"Altos R380 F2
+Jun 26, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650,2200,2,16,32,32,"1,292,540",215,52.9,"5,268"
+Acer Incorporated,"Altos R380 F2
+Jun 26, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,32,"1,426,072",252,63.7,"5,227"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Acer Incorporated,"Altos R360 F2
+Jul 16, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,432,448",258,72.4,"4,909"
+Acer Incorporated,"Altos R360 F2
+Jul 16, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650 2.0 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2000,2,16,32,24,"1,297,515",223,64,"4,893"
+Acer Incorporated,"Altos T350 F2
+Jul 16, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650 2.0 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2000,2,16,32,24,"1,310,610",219,56.1,"5,146"
+Acer Incorporated,"Altos T350 F2
+Jul 16, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,460,890",255,68.5,"5,091"
+Apple Inc.,"Xserve3,1
+Apr 8, 2009 | HTML | Text",1,Sun Microsystems Inc.,Intel(R) Xeon(R) CPU X5570,2930,2,8,16,18,"227,974",334,173,464
+Apple Inc.,"Xserve2,1
+Apr 8, 2009 | HTML | Text",1,Sun Microsystems Inc.,Intel(R) Xeon(R) CPU E5472,3000,2,8,32,16,"141,739",353,213,245
+Bull SAS,"NovaScale R440 F2 (Intel Xeon X5670, 2.93 GHz)
+Oct 20, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"911,120",247,60.4,"2,831"
+"Cisco Systems, Inc.
+Cisco Systems, Inc.","UCS C220 M3
+Oct 17, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,443,280",261,59.5,"4,904"
+"Colfax International
+Advanced Micro Devices","CX2266-N2
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc",AMD Opteron 2216HE,2400,2,4,4,16,"95,853",276,164,203
+DEPO Computers,"DEPO Storm 3350V2
+Oct 7, 2014 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,32,"1,634,387",232,97.1,"5,244"
+DEPO Computers,"DEPO Race X340H
+Dec 19, 2014 | HTML | Text",1,Oracle Corporation,Intel Core i5-4570,3200,1,4,4,16,322 278,131,"83,2","1,469"
+Dell Inc.,"PowerEdge 2950 III (Intel Xeon E5440)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5440,2833,2,8,8,16,"305,413",276,157,682
+Dell Inc.,"PowerEdge 1950 III (Intel Xeon E5440)
+Feb 27, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5440,2833,2,8,8,8,"284,028",244,143,712
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge 2950 III (Intel Xeon E5440)
+Feb 27, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5440,2833,2,8,8,16,"298,188",254,147,719
+Dell Inc.,"PowerEdge R300
+Mar 26, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5410,2330,1,4,4,8,"155,342",117,75.1,800
+Dell Inc.,"PowerEdge Energy Smart 1950 III (Intel Xeon L5420)
+Jul 31, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,8,"282,904",226,143,744
+Dell Inc.,"PowerEdge 2970 (AMD Opteron 2356, 2.30 GHz)
+Jan 2, 2009 | HTML | Text",1,Oracle Inc.,AMD Opteron 2356,2300,2,8,8,16,"247,542",302,139,545
+Dell Inc.,"PowerEdge 2970 (AMD Opteron 2382, 2.60 GHz)
+Jan 2, 2009 | HTML | Text",1,Oracle Inc.,AMD Opteron 2382,2600,2,8,8,16,"331,257",258,127,851
+Dell Inc.,"PowerEdge R610 (Intel Xeon X5570, 2.93 GHz)
+May 20, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X5570,2933,2,8,16,12,"550,081",236,63.2,"1,844"
+Dell Inc.,"PowerEdge R710 (Intel Xeon X5570, 2.93 GHz)
+Jun 3, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X5570,2933,2,8,16,8,"540,907",220,65,"1,860"
+Dell Inc.,"PowerEdge R610 (Intel Xeon L5530, 2.40 GHz)
+Sep 9, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"468,471",172,60,"1,930"
+Dell Inc.,"PowerEdge R710 (Intel Xeon L5530, 2.40 GHz)
+Oct 21, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"470,740",172,62.8,"1,918"
+Dell Inc.,"PowerEdge R610 (Intel Xeon X5670, 2.93 GHz)
+May 19, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"914,076",244,62.3,"2,938"
+Dell Inc.,"PowerEdge R710 (Intel Xeon X5670, 2.93 GHz)
+May 19, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"910,681",236,64.6,"2,963"
+Dell Inc.,"PowerEdge R815 (AMD Opteron 6174, 2.20 GHz)
+Jun 30, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,2,24,24,16,"926,676",279,100,"2,357"
+Dell Inc.,"PowerEdge R815 (AMD Opteron 6174, 2.20 GHz)
+Jun 30, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,4,48,48,32,"1,840,454",509,142,"2,696"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge R610 (Intel Xeon X5670, 2.93 GHz)
+Aug 11, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"913,806",242,61.9,"3,004"
+Dell Inc.,"PowerEdge R710 (Intel Xeon X5670, 2.93 GHz)
+Aug 11, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"910,978",232,64,"3,034"
+Dell Inc.,"PowerEdge M610
+Dell PowerEdge M1000E
+Sep 9, 2010 | HTML | Text",16,IBM Corporation,Intel Xeon X5670,2933,32,192,384,192,"14,440,896","3,716",877,"3,094"
+Dell Inc.,"PowerEdge R510
+Oct 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"925,878",266,56.9,"2,745"
+Dell Inc.,"PowerEdge M915
+Dell PowerEdge M1000e
+Aug 2, 2011 | HTML | Text",8,IBM Corporation,AMD Opteron 6176 (2.30 GHz),2300,32,384,384,256,"14,793,524","4,219","1,068","2,716"
+Dell Inc.,"PowerEdge M710HD
+Dell PowerEdge M1000e
+Sep 21, 2011 | HTML | Text",16,Oracle Corporation,Intel Xeon X5675 (3.06 GHz),3060,32,192,384,384,"15,173,592","3,780",972,"3,162"
+Dell Inc.,"PowerEdge M610
+Dell PowerEdge M1000e
+Nov 2, 2011 | HTML | Text",16,Oracle Corporation,Intel Xeon X5675 (3.06 GHz),3060,32,192,384,384,"14,760,777","3,504",873,"3,348"
+Dell Inc.,"PowerEdge C6100 (Intel Xeon X5675, 3.06 GHz)
+PowerEdge C6100
+Nov 2, 2011 | HTML | Text",4,Oracle Corporation,Intel Xeon 5675,3067,8,48,96,64,"3,662,415",895,227,"3,281"
+Dell Inc.,"Dell PowerEdge R710 (Intel Xeon X5675, 3.06 GHz)
+Nov 2, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3066,2,12,24,24,"955,936",227,62.2,"3,214"
+Dell Inc.,"PowerEdge M915
+Dell PowerEdge M1000e
+Nov 16, 2011 | HTML | Text",8,IBM Corporation,AMD Opteron 6276 (2.30 GHz),2300,32,512,512,512,"17,898,948","4,847","1,107","2,919"
+Dell Inc.,"PowerEdge R620 (Intel Xeon E5-2670, 2.6 GHz)
+Mar 21, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670 2.60 GHz,2600,2,16,32,24,"1,236,124",243,54.1,"4,446"
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2670, 2.6 GHz)
+Mar 21, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670 2.60 GHz,2600,2,16,32,24,"1,238,932",231,51,"4,658"
+Dell Inc.,"PowerEdge T620 (Intel Xeon E5-2670, 2.6 GHz)
+Mar 21, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670 2.60 GHz,2600,2,16,32,24,"1,236,311",227,50.2,"4,730"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge M620 (Intel Xeon E5-2670, 2.6 GHz)
+Dell PowerEdge M1000e
+Apr 4, 2012 | HTML | Text",16,Oracle Corporation,Intel Xeon E5-2670 2.60 GHz,2600,32,256,512,384,"20,208,781","3,881",828,"4,649"
+Dell Inc.,"PowerEdge R620 (Intel Xeon E5-2660, 2.2 GHz)
+May 2, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,304,143",263,56.1,"4,577"
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2660, 2.2 GHz)
+May 2, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,308,474",250,52.7,"4,836"
+Dell Inc.,"PowerEdge T620 (Intel Xeon E5-2660, 2.2 GHz)
+May 2, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,316,689",246,51.3,"4,929"
+Dell Inc.,"PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4650L 2.60 GHz,2600,4,32,64,48,"2,540,179",446,110,"4,894"
+Dell Inc.,"PowerEdge M520
+Dell PowerEdge M1000e
+May 30, 2012 | HTML | Text",16,Oracle Corporation,Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz),2300,32,256,512,384,"20,832,566","4,026",713,"5,034"
+Dell Inc.,"PowerEdge R420 (Intel Xeon E5-2470, 2.30 GHz)
+Jun 14, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470 2.3GHz,2300,2,16,32,24,"1,187,945",205,51.2,"4,866"
+Dell Inc.,"PowerEdge M420
+Dell PowerEdge M1000e
+Jul 11, 2012 | HTML | Text",32,Oracle Corporation,Intel Xeon E5-2470 (2.3 GHz),2300,64,512,1024,768,"36,985,454","6,854","1,773","4,535"
+Dell Inc.,"PowerEdge R815 (AMD Opteron 6278, 2.40 GHz)
+Aug 8, 2012 | HTML | Text",1,IBM Corp.,AMD Opteron 6278,2400,4,64,64,64,"2,331,362",593,118,"3,028"
+Dell Inc.,"PowerEdge M820
+Dell PowerEdge M1000e
+Aug 22, 2012 | HTML | Text",8,IBM Corporation,Intel Xeon E5-4650L (2.60 GHz),2600,32,512,1024,384,"21,852,947","3,997",832,"4,853"
+Dell Inc.,"PowerEdge R620 (Intel Xeon E5-2660, 2.20 GHz)
+Sep 5, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)
+Sep 5, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)
+Sep 5, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4650L 2.60 GHz,2600,4,32,64,48,NC,NC,NC,NC
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge T620 (Intel Xeon E5-2660, 2.20 GHz)
+Sep 5, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R520 (Intel Xeon E5-2470, 2.30 GHz)
+Oct 17, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz ),2300,2,16,32,24,"1,496,064",264,47.9,"5,504"
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)
+Nov 14, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,447,466",230,53.8,"5,497"
+Dell Inc.,"PowerEdge R420 (Intel Xeon E5-2470, 2.30 GHz)
+Nov 14, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz ),2300,2,16,32,24,"1,511,097",263,53.3,"5,420"
+Dell Inc.,"PowerEdge M520 (Intel Xeon E5-2470 (2.30 GHz)
+Dell PowerEdge M1000e
+Nov 14, 2012 | HTML | Text",16,IBM Corporation,Intel Xeon E5-2470 (2.30 GHz),2300,32,384,512,256,"23,619,377","4,078",732,"5,521"
+Dell Inc.,"PowerEdge M915 (AMD Opteron 6380, 2.50 GHz)
+Dell PowerEdge M1000e
+Nov 14, 2012 | HTML | Text",8,IBM Corporation,AMD Opteron 6380 (2.50 GHz),2500,32,512,512,512,"25,132,429","4,562",976,"4,421"
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)
+Nov 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,450,585",231,52.3,"5,506"
+Dell Inc.,"PowerEdge T620 (Intel Xeon E5-2660, 2.20 GHz)
+Nov 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,446,931",242,51,"5,425"
+Dell Inc.,"PowerEdge R620 (Intel Xeon E5-2660, 2.20 GHz)
+Nov 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,447,399",248,54.9,"5,244"
+Dell Inc.,"PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)
+Nov 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4650L 2.60 GHz,2600,4,32,64,48,"2,790,966",457,108,"5,285"
+Dell Inc.,"PowerEdge C6105 (AMD Opteron 4376HE, 2.6 GHz)
+PowerEdge C6105
+Jan 9, 2013 | HTML | Text",4,IBM Corporation,AMD Opteron 4376HE,2600,8,64,64,64,"3,209,556",573,106,"4,510"
+Dell Inc.,"PowerEdge C6145 (AMD Opteron 6380, 2.50 GHz)
+PowerEdge C6145
+Jan 9, 2013 | HTML | Text",2,IBM Corporation,AMD Opteron 6380 (2.50GHz),2500,8,128,128,128,"6,175,935","1,105",196,"4,499"
+Dell Inc.,"PowerEdge M620 (Intel Xeon E5-2670, 2.60 GHz)
+Dell PowerEdge M1000e
+Feb 20, 2013 | HTML | Text",16,IBM Corporation,Intel Xeon E5-2670 2.60 GHz,2600,32,256,512,384,"22,753,179","4,057",833,"4,982"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge C5220 (Intel Xeon E3-1265LV2)
+PowerEdge C5220
+Apr 19, 2013 | HTML | Text",12,IBM Corporation,Intel Xeon E3-1265LV2,2500,12,48,96,96,"5,258,070",672,194,"6,000"
+Dell Inc.,"PowerEdge M620 (Intel Xeon E5-2660 v2, 2.20 GHz)
+Dell PowerEdge M1000e
+Oct 16, 2013 | HTML | Text",16,IBM Corporation,Intel Xeon E5-2660 v2 (Intel Turbo Boost Technology up to 3.0 GHz),2200,32,320,640,384,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R720 (Intel Xeon E5-2660 v2, 2.20 GHz)
+Oct 16, 2013 | HTML | Text",1,IBM Corporation,"Intel Xeon E5-2660 v2, 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)",2200,2,20,40,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R620 (Intel Xeon E5-2660 v2 2.20 GHz)
+Nov 13, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,20,40,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge T620 (Intel Xeon E5-2660 v2 2.20 GHz)
+Nov 13, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,20,40,24,NC,NC,NC,NC
+Dell Inc.,"PowerEdge M520 (Intel Xeon E5-2470 v2 2.40 GHz)
+Dell PowerEdge M1000e
+Jan 22, 2014 | HTML | Text",16,IBM Corporation,Intel Xeon E5-2470 v2 (Intel Turbo Boost Technology up to 3.20 GHz),2400,32,320,640,384,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R820 (Intel Xeon E5-4650 v2 2.40 GHz)
+Apr 16, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4650 v2 2.40 GHz (Intel Turbo Boost Technology up to 2.90 GHz),2400,4,40,80,48,NC,NC,NC,NC
+Dell Inc.,"PowerEdge M820 (Intel Xeon E5-4650 v2, 2.40 GHz)
+Dell PowerEdge M1000e
+Apr 30, 2014 | HTML | Text",8,IBM Corporation,Intel Xeon E5-4650 v2 2.40 GHz (Intel Turbo Boost Technology up to 2.90 GHz),2400,32,320,640,384,NC,NC,NC,NC
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2699 v3 2.30 GHz)
+Feb 18, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,64,"3,253,446",272,46.9,"10,206"
+Dell Inc.,"PowerEdge T630 (Intel Xeon E5-2699 v3 2.30 GHz)
+Mar 18, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,64,"3,246,430",273,48.1,"10,103"
+Dell Inc.,"PowerEdge R630 (Intel Xeon E5-2699 v3 2.30 GHz)
+Apr 1, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,64,"3,240,418",287,51.2,"9,749"
+Dell Inc.,"PowerEdge C6320 (Intel Xeon E5-2699 v3 2.30 GHz)
+Dell PowerEdge C6000
+Jul 28, 2015 | HTML | Text",4,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,8,144,288,256,"12,942,825","1,229",210,"9,472"
+Dell Inc.,"PowerEdge M830 (Intel Xeon E5-4669 v3, 2.10 GHz)
+Dell PowerEdge M1000e
+Jul 28, 2015 | HTML | Text",8,IBM Corporation,Intel Xeon E5-4669 v3 2.10 GHz (Intel Turbo Boost technology up to 2.90 GHz),2100,32,576,"1,152",1024,NC,NC,NC,NC
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge FC630 (Intel Xeon E5-2699 v3 2.30 GHz)
+Dell PowerEdge FX2
+Aug 6, 2015 | HTML | Text",4,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,8,144,288,256,"12,981,292","1,256",228,"9,288"
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2699 v4 2.20 GHz)
+Apr 15, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4 2.20 GHz,2200,2,44,88,128,"3,341,589",269,44.9,"10,802"
+Dell Inc.,"PowerEdge M630 (Intel Xeon E5-2699 v4, 2.20 GHz)
+Dell PowerEdge M1000e
+May 25, 2016 | HTML | Text",16,Oracle,Intel Xeon E5-2699 v4 2.20 GHz,2200,32,704,1408,2048,"57,024,126","4,918",878,"10,062"
+Dell Inc.,"PowerEdge R630 (Intel Xeon E5-2699 v4 2.20 GHz)
+May 25, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4 2.20 GHz,2200,2,44,88,128,"3,529,367",279,46.7,"11,157"
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2699 v4 2.20 GHz)
+May 25, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4 2.20 GHz,2200,2,44,88,128,"3,513,207",272,44.6,"11,423"
+Dell Inc.,"PowerEdge R830 (Intel Xeon E5-4669 v4 2.20 GHz)
+Jul 20, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4669 v4 2.20 GHz,2200,4,88,176,256,"7,064,778",562,86.4,"11,064"
+Dell Inc.,"PowerEdge R740
+Sep 13, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,2,56,112,192,"5,727,798",457,52.3,"11,790"
+Dell Inc.,"PowerEdge R640
+Sep 13, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,2,56,112,192,"5,759,892",469,55,"11,542"
+Dell Inc.,"PowerEdge T640
+Sep 27, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,2,56,112,192,"5,805,252",469,56,"11,537"
+Dell Inc.,"PowerEdge R940
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,4,112,224,384,"11,528,804",915,106,"11,958"
+Dell Inc.,"PowerEdge R7425 (AMD EPYC 7601 2.20 GHz)
+Jun 7, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7601 2.20 GHz,2200,2,64,128,128,"4,376,919",287,84.9,"11,064"
+Dell Inc.,"PowerEdge R840 (Intel Xeon Platinum 8180 2.50 GHz)
+Jul 5, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,4,112,224,384,"11,546,450",939,89.8,"11,872"
+Dell Inc.,"PowerEdge R840 (Intel Xeon Platinum 8180 2.50 GHz)
+Jul 18, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz,2500,4,112,224,384,"11,355,761",923,85.6,"11,962"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Dell Inc.,"PowerEdge R7425 (AMD EPYC 7601 2.20 GHz)
+Feb 27, 2019 | HTML | Text",1,Oracle Corporation,"AMD EPYC 7601 2.20 GHz, Dell SKU [338-BNCG]",2200,2,64,128,128,"4,374,583",268,77.5,"11,867"
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8280, 2.70 GHz)
+Apr 25, 2019 | HTML | Text",1,Oracle Corporation,"Intel Xeon Platinum 8280, 2.70 GHz",2700,2,56,112,192,"5,811,114",432,49.8,"12,831"
+Dell Inc.,"PowerEdge R240 (Intel Xeon E-2176G, 3.70 GHz)
+Jul 17, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,32,"856,931",93.1,20,"8,913"
+Dell Inc.,"PowerEdge R7515 (AMD EPYC 7742, 2.25 GHz)
+HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25 GHz,2250,1,64,128,128,"5,676,534",246,99.5,"16,501"
+Dell Inc.,"PowerEdge R6525 (AMD EPYC 7702, 2.00 GHz)
+Mar 25, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702 2.00 GHz,2000,2,128,256,128,"11,115,782",404,81.6,"20,184"
+Dell Inc.,"PowerEdge R7525 (AMD EPYC 7702, 2.00 GHz)
+Apr 8, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702 2.00 GHz,2000,2,128,256,128,"11,118,115",393,72.3,"20,910"
+Dell Inc.,"PowerEdge R6515 (AMD EPYC 7702P, 2.00 GHz)
+Aug 12, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702P 2.00 GHz,2000,1,64,128,64,"6,124,305",231,54.5,"18,463"
+"Dell Inc.
+Dell Inc.","PowerEdge R710 (Intel Xeon X5570, 2.93 GHz)
+Mar 30, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X5570,2933,2,8,16,12,"541,345",237,75.6,"1,746"
+"Dell Inc.
+Dell","PowerEdge R620 (Intel Xeon E5-2660, 2.2 GHz)
+Apr 4, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 2.20 GHz,2200,2,16,32,24,"1,261,803",258,56.1,"4,525"
+"Dell Inc.
+Dell","PowerEdge T620 (Intel Xeon E5-2660, 2.2 GHz)
+Apr 4, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660 2.20 GHz,2200,2,16,32,24,"1,290,357",240,50.3,"4,874"
+Five9 Network Systems,"Five9 N1200 Carrier Grade Server
+Apr 28, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2930,2,12,24,12,"542,457",190,76.5,"1,990"
+Fujitsu,"PRIMERGY TX100 S1 (Intel Xeon L3360)
+Jul 15, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L3360,2833,1,4,4,8,"212,779",94.7,46.2,"1,500"
+Fujitsu,"PRIMERGY RX100 S6 (Intel Xeon X3470)
+Feb 2, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon X3470,2933,1,4,8,4,"278,441",130,35,"1,842"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"PRIMERGY TX150 S7 (Intel Xeon X3470)
+Feb 2, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon X3470,2933,1,4,8,4,"276,514",112,24.3,"2,187"
+Fujitsu,"PRIMERGY CX120 S1 (Intel Xeon L5530)
+PRIMERGY CX1000 S1
+Mar 24, 2010 | HTML | Text",38,IBM Corporation,Intel Xeon L5530,2400,76,304,608,304,"19,939,326","6,303","1,842","2,320"
+Fujitsu,"PRIMERGY RX300 S6 (Intel Xeon X5670)
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"917,763",245,77.9,"2,822"
+Fujitsu,"PRIMERGY RX200 S6 (Intel Xeon X5670)
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"913,790",242,76.2,"2,850"
+Fujitsu,"PRIMERGY TX300 S6 (Intel Xeon X5670)
+May 19, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"916,072",236,78.5,"2,900"
+Fujitsu,"PRIMERGY TX150 S7 (Intel Xeon X3480)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,4,"330,353",113,24.8,"2,513"
+Fujitsu,"PRIMERGY RX100 S6 (Intel Xeon X3480)
+Dec 1, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,4,"325,193",127,33.4,"2,155"
+Fujitsu,"PRIMERGY TX300 S6 (Intel Xeon X5675)
+Mar 9, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3066,2,12,24,12,"930,315",236,74.8,"2,989"
+Fujitsu,"PRIMERGY TX140 S1 (Intel Xeon E3-1260L)
+Apr 27, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1260L,2400,1,4,8,8,"319,659",53.6,16.8,"4,549"
+Fujitsu,"PRIMERGY TX120 S3 (Intel Xeon E3-1260L)
+Jun 16, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1260L,2400,1,4,8,8,"322,691",54,14.9,"4,697"
+Fujitsu,"PRIMERGY RX100 S7 (Intel Xeon E3-1260L)
+Jun 16, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1260L,2400,1,4,8,8,"319,958",57.2,17.8,"4,323"
+Fujitsu,"PRIMERGY BX920 S2 (Intel Xeon X5675)
+PRIMERGY BX900 S1
+Oct 6, 2011 | HTML | Text",18,Oracle Corporation,Intel Xeon X5675,3067,36,216,432,216,"17,108,146","4,272","1,032","3,221"
+Fujitsu,"PRIMERGY RX300 S7 (Intel Xeon E5-2660)
+Mar 21, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660,2200,2,16,32,32,"1,343,300",245,53.1,"5,032"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"PRIMERGY RX200 S7 (Intel Xeon E5-2660)
+Apr 25, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660,2200,2,16,32,32,"1,338,554",257,58.6,"4,722"
+Fujitsu,"PRIMERGY BX920 S3 (Intel Xeon E5-2470)
+PRIMERGY BX900 S2
+May 30, 2012 | HTML | Text",18,Oracle Corporation,Intel Xeon E5-2470,2300,36,288,576,432,"23,884,347","4,965","1,014","4,677"
+Fujitsu,"PRIMERGY RX100 S7p (Intel Xeon E3-1265LV2)
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1265LV2,2500,1,4,8,8,"416,999",59.5,19.1,"5,576"
+Fujitsu,"PRIMERGY TX120 S3p (Intel Xeon E3-1265LV2)
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1265LV2,2500,1,4,8,8,"420,255",56.2,15.7,"6,109"
+Fujitsu,"PRIMERGY TX300 S7 (Intel Xeon E5-2660)
+Jun 27, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,309,437",240,52.6,"5,032"
+Fujitsu,"PRIMERGY RX350 S7 (Intel Xeon E5-2660)
+Jun 27, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,306,867",240,52.3,"5,035"
+Fujitsu,"PRIMERGY TX140 S1p (Intel Xeon E3-1265LV2)
+Jul 11, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1265LV2,2500,1,4,8,8,"417,806",55.3,18.9,"5,887"
+Fujitsu,"PRIMERGY RX500 S7 (Intel Xeon E5-4640)
+Aug 8, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4640,2400,4,32,64,48,"2,347,591",402,94.6,"5,029"
+Fujitsu,"PRIMERGY TX200 S7 (Intel Xeon E5-2470)
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,24,"1,367,462",252,51.4,"5,177"
+Fujitsu,"PRIMERGY TX100 S3p (Intel Xeon E3-1240V2)
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1240V2,3400,1,4,8,8,"467,481",72.5,14.1,"6,008"
+Fujitsu,"PRIMERGY TX200 S7 (Intel Xeon E5-2470)
+Sep 19, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470,2300,2,16,32,24,"1,516,025",252,50.7,"5,689"
+Fujitsu,"PRIMERGY RX500 S7 (Intel Xeon E5-4640)
+Sep 19, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4640,2400,4,32,64,48,"2,619,038",420,97.1,"5,350"
+Fujitsu,"PRIMERGY RX300 S7 (Intel Xeon E5-2660)
+Oct 3, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,432,829",245,54,"5,406"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"PRIMERGY RX200 S7 (Intel Xeon E5-2660)
+Oct 3, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,442,516",258,59.8,"5,058"
+Fujitsu,"PRIMERGY RX350 S7 (Intel Xeon E5-2660)
+Oct 3, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,432,623",245,55.2,"5,347"
+Fujitsu,"PRIMERGY TX300 S7 (Intel Xeon E5-2660)
+Oct 3, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,440,306",246,55.1,"5,372"
+Fujitsu,"PRIMERGY TX140 S2 (Intel Xeon E3-1265Lv3)
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1265Lv3,2500,1,4,8,8,"491,887",58.5,19,"6,797"
+Fujitsu,"PRIMERGY RX300 S8 (Intel Xeon E5-2660 v2)
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,48,NC,NC,NC,NC
+Fujitsu,"PRIMERGY RX350 S8 (Intel Xeon E5-2660 v2)
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,48,NC,NC,NC,NC
+Fujitsu,"PRIMERGY TX300 S8 (Intel Xeon E5-2660 v2)
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,48,NC,NC,NC,NC
+Fujitsu,"PRIMERGY RX200 S8 (Intel Xeon E5-2660 v2)
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,48,NC,NC,NC,NC
+Fujitsu,"PRIMERGY RX100 S8 (Intel Xeon E3-1265Lv3)
+Nov 13, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1265Lv3,2500,1,4,8,8,"490,149",69.8,17.7,"6,137"
+Fujitsu,"PRIMERGY BX920 S4 (Intel Xeon E5-2470 v2)
+PRIMERGY BX900 S2
+Jan 22, 2014 | HTML | Text",18,IBM Corporation,Intel Xeon E5-2470 v2,2400,36,360,720,864,NC,NC,NC,NC
+Fujitsu,"FUJITSU Server PRIMERGY TX2540 M1
+Apr 16, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 v2,2400,2,20,40,48,NC,NC,NC,NC
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M1
+Aug 22, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1275Lv3,2500,1,4,8,16,NC,NC,NC,NC
+Fujitsu,"FUJITSU Server PRIMERGY RX2540 M1
+Oct 21, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,64,"3,257,627",271,39,"10,654"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"FUJITSU Server PRIMERGY CX2550 M1
+PRIMERGY CX400 M1
+Dec 10, 2014 | HTML | Text",4,IBM Corporation,Intel Xeon E5-2699 v3,2300,8,144,288,256,"12,913,912","1,152",171,"9,971"
+Fujitsu,"FUJITSU Server PRIMERGY RX2530 M1
+Feb 5, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,64,"3,231,698",289,47.3,"9,811"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M1
+Feb 5, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1275Lv3,2700,1,4,8,16,"508,794",60,13.3,"7,535"
+Fujitsu,"FUJITSU Server PRIMERGY TX2560 M1
+Apr 1, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,64,"3,253,898",264,40,"10,685"
+Fujitsu,"FUJITSU Server PRIMERGY RX2560 M1
+Apr 1, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,64,"3,256,040",267,40.1,"10,699"
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M1
+Jun 2, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1275Lv3,2700,1,4,8,16,"508,013",63.9,16,"6,916"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M2
+Nov 25, 2015 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1260L v5,2900,1,4,8,16,"478,512",44.7,11.6,"8,944"
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M2
+Dec 15, 2015 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1260L v5,2900,1,4,8,16,"474,047",47.7,16,"7,809"
+Fujitsu,"FUJITSU Server PRIMERGY TX1330 M2
+Jan 7, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1240L v5,2100,1,4,8,16,"484,122",47.2,16.1,"8,187"
+Fujitsu,"FUJITSU Server PRIMERGY RX2560 M2
+Apr 15, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,448,187",243,41.7,"12,079"
+Fujitsu,"FUJITSU Server PRIMERGY TX2560 M2
+Apr 15, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,440,668",241,41.8,"12,065"
+Fujitsu,"FUJITSU Server PRIMERGY RX2540 M2
+Apr 27, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,445,027",255,43.6,"11,638"
+Fujitsu,"FUJITSU Server PRIMERGY RX2530 M2
+May 12, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,448,650",266,49.6,"10,950"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M3
+Apr 12, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1230 v6,3500,1,4,8,16,"586,973",56.1,13.1,"9,281"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M3
+Apr 12, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1230 v6,3500,1,4,8,16,"591,742",51.8,9.33,"10,427"
+Fujitsu,"FUJITSU Server PRIMERGY TX1330 M3
+Apr 12, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1230 v6,3500,1,4,8,16,"587,425",51.2,12.4,"10,000"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M4
+Oct 18, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176M,2100,4,112,224,192,"10,536,721",785,148,"11,886"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M4
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176M,2100,4,112,224,192,"10,419,443",773,146,"12,008"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M4
+Jan 10, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176M,2100,4,112,224,192,"10,249,832",733,94.9,"12,828"
+Fujitsu,"FUJITSU Server PRIMERGY RX2540 M4
+Jan 10, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176M,2100,2,56,112,192,"5,079,736",355,57.3,"12,842"
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M4
+Dec 6, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,16,"651,586",73.9,12.8,"8,924"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M4
+Dec 6, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,16,"655,699",71.7,10,"9,435"
+Fujitsu,"FUJITSU Server PRIMERGY TX1330 M4
+Dec 6, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,16,"652,874",72.9,14.9,"9,031"
+Fujitsu,"FUJITSU Server PRIMERGY RX2540 M5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2300,2,56,112,192,"4,657,126",332,58.2,"11,991"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2300,4,112,224,384,"9,432,104",710,113,"11,444"
+Fujitsu,"FUJITSU Server PRIMERGY RX2530 M5
+May 22, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2200,2,56,112,192,"5,189,194",367,53.6,"13,006"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"FUJITSU Server PRIMERGY CX2560 M5
+PRIMERGY CX400 M4
+May 22, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 6252,2100,8,192,384,768,"17,566,126","1,412",329,"10,619"
+Fujitsu,"FUJITSU Server PRIMERGY RX2540 M5
+Jun 5, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L,2700,2,56,112,192,"5,514,468",388,58.3,"13,502"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M5
+Jun 5, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L,2700,4,112,224,384,"11,162,949",808,120,"12,979"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M4
+Jun 5, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,16,"695,687",61.8,11.7,"11,089"
+Fujitsu,"FUJITSU Server PRIMERGY TX2550 M5
+Sep 19, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6252 Processor,2100,2,48,96,96,"4,507,558",342,54.8,"11,901"
+Fujitsu,"FUJITSU Server PRIMERGY RX2520 M5
+Sep 19, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 5220,2200,2,36,72,192,"3,872,265",318,61.5,"10,765"
+Fujitsu,"FUJITSU Server PRIMERGY TX1320 M4
+Nov 6, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2288G,3700,1,8,16,16,"797,225",56,16.3,"12,364"
+Fujitsu,"FUJITSU Server PRIMERGY TX1330 M4
+Nov 6, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2288G,3700,1,8,16,16,"776,812",53.2,15.9,"12,631"
+Fujitsu,"FUJITSU Server PRIMERGY RX1330 M4
+Dec 18, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2288G,3700,1,8,16,16,"786,578",57.4,16.8,"11,660"
+Fujitsu,"FUJITSU Server PRIMERGY LX1430 M1
+Dec 18, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,1,64,128,256,"5,816,214",250,60.8,"17,278"
+Fujitsu,"FUJITSU Server PRIMERGY RX4770 M6
+Nov 4, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380H,2900,4,112,224,384,"9,904,110",834,129,"11,077"
+Fujitsu,"PRIMERGY RX2530 M6
+Apr 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"7,573,884",580,131,"11,533"
+Fujitsu,"PRIMERGY RX2530 M6
+Apr 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"7,967,827",568,132,"12,066"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu,"PRIMERGY RX2540 M6
+Jun 9, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"7,594,068",564,135,"11,652"
+Fujitsu,"PRIMERGY RX2540 M6
+Jun 9, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"7,972,718",550,137,"12,211"
+Fujitsu,"FUJITSU Server PRIMERGY CX2560 M6
+PRIMERGY CX400 M6
+Sep 1, 2021 | HTML | Text",4,Oracle Corporation,Intel Xeon Gold 5318Y,2100,8,192,384,"1,024","19,762,291","1,906",472,"8,903"
+Fujitsu,"FUJITSU Server PRIMERGY CX2560 M6
+PRIMERGY CX400 M6
+Sep 1, 2021 | HTML | Text",4,Oracle Corporation,Intel Xeon Gold 5318Y,2100,8,192,384,"1,024","18,526,911","1,600",482,"9,077"
+Fujitsu,"FUJITSU Server PRIMERGY TX1310 M5 (D3930-A100)
+Oct 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2356G,3200,1,6,12,16,"655,851",55.5,11.7,"9,596"
+Fujitsu,"FUJITSU Server PRIMERGY TX1310 M5 (D3930-A100)
+Oct 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2356G,3200,1,6,12,16,"662,193",59.4,11.7,"10,707"
+"Fujitsu
+Fujitsu","PRIMERGY TX150 S6 (Intel Xeon L3360)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L3360,2833,1,4,4,4,"196,734",98.4,51.7,"1,271"
+"Fujitsu
+Fujitsu","PRIMERGY RX100 S5 (Intel Xeon L3360)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L3360,2833,1,4,4,4,"196,279",109,63.1,"1,118"
+"Fujitsu
+Fujitsu","PRIMERGY RX200 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"327,292",231,154,851
+"Fujitsu
+Fujitsu","PRIMERGY RX300 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"325,849",235,147,855
+"Fujitsu
+Fujitsu","PRIMERGY TX300 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"326,128",221,136,917
+Fujitsu Siemens Computers,"PRIMERGY RX300 S3 (Intel Xeon L5335)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5335,2000,2,8,8,16,"201,689",260,187,446
+Fujitsu Siemens Computers,"PRIMERGY TX120 (Intel Xeon 3070)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon 3070,2666,1,2,2,4,"79,171",109,66.8,454
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu Siemens Computers,"PRIMERGY TX150 S5 (Intel Xeon 3070)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon 3070,2666,1,2,2,4,"78,685",131,90.8,356
+Fujitsu Siemens Computers,"PRIMERGY TX150 S6 (Intel Xeon X3220)
+Dec 11, 2007 | HTML | Text",1,"Bea Systems, Inc",Intel Xeon X3220,2400,1,4,4,8,"143,742",132,79.8,667
+Fujitsu Siemens Computers,"PRIMERGY RX300 S4 (INTEL Xeon E5440)
+Jan 30, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5440,2830,2,8,8,16,"303,846",265,166,690
+Fujitsu Siemens Computers,"PRIMERGY TX150 S6 (Intel Xeon X3360)
+Apr 2, 2008 | HTML | Text",1,"Bea Systems, Inc",Intel Xeon X3360,2833,1,4,4,8,"184,145",116,59.3,"1,018"
+Fujitsu Siemens Computers,"PRIMERGY TX150 S6 (Intel Xeon X3360)
+Jun 4, 2008 | HTML | Text",1,"Bea Systems, Inc",Intel Xeon X3360,2833,1,4,4,4,"186,987",107,53.1,"1,124"
+Fujitsu Siemens Computers,"PRIMERGY RX300 S4 (Intel Xeon L5430)
+Sep 10, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"299,432",231,155,780
+Fujitsu Siemens Computers,"PRIMERGY RX200 S4 (Intel Xeon L5430)
+Sep 10, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"301,506",234,158,780
+Fujitsu Siemens Computers,"PRIMERGY TX300 S4 (Intel Xeon L5430)
+Sep 10, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"293,162",220,138,827
+Fujitsu Siemens Computers,"PRIMERGY RX100 S5 (Intel Xeon X3360)
+Sep 24, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon X3360,2833,1,4,4,4,"185,487",115,63,"1,015"
+Fujitsu Siemens Computers,"PRIMERGY TX150 S6 (Intel Xeon L3360)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L3360,2833,1,4,4,4,"196,515",98.4,51.8,"1,273"
+Fujitsu Siemens Computers,"PRIMERGY RX100 S5 (Intel Xeon L3360)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L3360,2833,1,4,4,4,"196,226",109,63.2,"1,116"
+Fujitsu Siemens Computers,"PRIMERGY RX200 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"325,499",231,154,851
+Fujitsu Siemens Computers,"PRIMERGY RX300 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"326,319",235,147,854
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Fujitsu Siemens Computers,"PRIMERGY TX300 S4 (Intel Xeon L5430)
+Mar 11, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2667,2,8,8,8,"326,264",221,135,916
+"GIGA-BYTE TECHNOLOGY CO., LTD.
+Parts Built
+GIGA-BYTE TECHNOLOGY CO., LTD.","R181-Z90
+Oct 17, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7601,2200,2,64,128,128,"4,512,155",296,95.5,"11,207"
+"GIGA-BYTE Technology Co., Ltd.","R282-Z90
+Aug 28, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742,2250,2,128,256,256,"13,008,786",492,133,"18,748"
+H3C,"UIS R390x G2
+Aug 24, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,422,594",252,40.1,"11,654"
+"Hewlett Packard
+Hewlett-Packard Company","ProLiant DL170h G6
+ProLiant h1000 G6
+Jul 29, 2009 | HTML | Text",4,Oracle Corporation,Intel Xeon L5520,2267,8,32,64,32,"1,787,585",652,267,"1,909"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen9
+Jan 7, 2016 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,64,"3,159,419",276,45,"10,118"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen9
+Jun 22, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4669 v3 2.10 GHz,2100,4,72,144,64,"5,223,316",557,86.3,"8,151"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Jul 19, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,96,"5,779,630",451,48.7,"12,313"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen10
+Jul 19, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,192,"11,281,436",936,88.9,"11,662"
+Hewlett Packard Enterprise,"ProLiant ML350 Gen10
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,192,"5,800,646",459,58.1,"11,845"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,96,"5,869,955",448,50,"12,488"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen10
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,192,"11,725,627",944,82.9,"12,120"
+Hewlett Packard Enterprise,"ProLiant DL580 Gen10
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,192,"11,580,444",963,110,"11,424"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Nov 8, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,1,28,56,48,"2,989,485",233,38.7,"11,550"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 25, 2018 | HTML | Text",12,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,24,672,"1,344","2,304","68,782,048","5,816",901,"10,872"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 26, 2018 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,24,672,1344,2304,"69,404,522","5,968",758,"11,021"
+Hewlett Packard Enterprise,"ProLiant DL385 Gen10
+May 1, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7601 2.20 GHz,2200,2,64,128,128,"4,295,252",298,81.1,"11,044"
+Hewlett Packard Enterprise,"ProLiant DL385 Gen10
+Jul 18, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7601 2.20 GHz,2200,2,64,128,128,"4,283,406",295,88.3,"11,140"
+Hewlett Packard Enterprise,"ProLiant DL325 Gen10
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7551P 2.0 GHz,2000,1,32,64,128,"2,121,736",181,61.7,"8,083"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",11,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,22,616,"1,232","2,112","62,981,514","5,402",864,"10,693"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",10,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,20,560,1120,1920,"57,334,339","4,918",814,"10,641"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",9,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,18,504,1008,1728,"51,525,769","4,444",746,"10,541"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",8,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,16,448,896,1536,"45,793,948","3,971",695,"10,429"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",7,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,14,392,784,1344,"40,093,763","3,497",627,"10,301"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,12,336,672,1152,"34,293,516","2,999",553,"10,203"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,20,560,1120,1920,"57,681,449","5,001",664,"10,855"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,16,448,896,1536,"46,086,610","4,030",572,"10,648"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",3,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,12,336,672,1152,"34,502,288","3,048",478,"10,373"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Sep 12, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,1,28,56,48,"2,962,862",237,38.9,"11,126"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",2,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,8,224,448,768,"23,096,507","2,048",326,"10,323"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Sep 12, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,96,"5,797,852",457,52.4,"11,709"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen10
+Sep 12, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,192,"11,554,819",942,88.6,"11,463"
+Hewlett Packard Enterprise,"ProLiant DL380 Gen10
+Sep 12, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,96,"5,758,036",461,49.3,"11,540"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Sep 12, 2018 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,10,280,560,960,"28,585,334","2,495",466,"10,237"
+Hewlett Packard Enterprise,"ProLiant ML350 Gen10
+Sep 12, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,192,"5,653,296",471,59.4,"10,916"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,4,112,224,192,"11,637,630",849,103,"13,022"
+Hewlett Packard Enterprise,"ProLiant DL560 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,4,112,224,192,"11,994,247",942,90.1,"12,045"
+Hewlett Packard Enterprise,"ProLiant DL580 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,4,112,224,384,"11,779,765",982,119,"11,234"
+Hewlett Packard Enterprise,"ProLiant DL580 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,4,112,224,384,"11,477,054",894,123,"12,132"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,24,672,1344,2304,"68,931,378","5,409",781,"12,042"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,20,560,1120,1920,"57,344,378","4,503",675,"11,942"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,16,448,896,1536,"45,870,814","3,611",570,"11,799"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",3,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,12,336,672,1152,"34,413,035","2,731",465,"11,547"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",2,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,8,224,448,768,"22,907,794","1,864",361,"10,977"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,24,672,1344,2304,"71,104,692","5,989",679,"11,179"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,20,560,1120,1920,"59,083,703","4,983",592,"11,074"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,16,448,896,1536,"47,321,609","3,978",500,"11,007"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",3,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,12,336,672,1152,"35,391,846","3,004",421,"10,754"
+Hewlett Packard Enterprise,"Synergy 660 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",2,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,8,224,448,768,"23,701,920","2,045",330,"10,349"
+Hewlett Packard Enterprise,"ProLiant ML350 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,2,56,112,192,"5,937,591",474,56.8,"11,611"
+Hewlett Packard Enterprise,"ProLiant ML350 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,2,56,112,192,"5,735,589",435,64.2,"12,272"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,1,28,56,48,"3,025,574",235,37.3,"11,637"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",12,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,24,672,1344,2304,"71,225,314","5,938",807,"11,051"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",11,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,22,616,1232,2112,"65,192,626","5,431",756,"11,017"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",10,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,20,560,1120,1920,"59,152,094","4,940",700,"10,951"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",9,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,18,504,1008,1728,"53,226,238","4,444",645,"10,897"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",8,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,16,448,896,1536,"47,287,215","3,958",598,"10,825"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",7,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,14,392,784,1344,"41,388,106","3,472",535,"10,762"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,12,336,672,1152,"35,518,206","2,980",477,"10,684"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,1,28,56,48,"2,944,732",217,39.4,"12,384"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+Apr 2, 2019 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz,2700,10,280,560,960,"29,610,404","2,494",425,"10,552"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",5,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,10,280,560,960,"28,783,614","2,295",459,"11,215"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,8,224,448,768,"23,118,220","1,860",398,"10,975"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",3,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,6,168,336,576,"17,280,572","1,418",328,"10,580"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",2,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,4,112,224,384,"11,556,688",982,257,"9,936"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",11,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,22,616,1232,2112,"63,338,893","4,975",845,"11,804"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",10,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,20,560,1120,1920,"57,553,033","4,519",779,"11,754"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",9,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,18,504,1008,1728,"51,793,120","4,073",714,"11,676"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",8,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,16,448,896,1536,"46,012,174","3,627",658,"11,603"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",7,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,14,392,784,1344,"40,260,576","3,182",585,"11,516"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",6,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,12,336,672,1152,"34,460,439","2,736",518,"11,390"
+Hewlett Packard Enterprise,"Synergy 480 Gen10 Compute Module
+HPE Synergy 12000 Frame
+May 8, 2019 | HTML | Text",12,Oracle Corporation,Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz),2700,24,672,1344,2304,"69,086,440","5,384",922,"11,845"
+Hewlett Packard Enterprise,"ProLiant DL385 Gen10
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702 2.0 GHz,2000,2,128,256,256,"11,092,443",423,163,"18,294"
+Hewlett Packard Enterprise,"ProLiant DL325 Gen10
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702P 2.00 GHz,2000,1,64,128,128,"5,801,076",230,78.7,"17,349"
+Hewlett Packard Enterprise,"ProLiant DL385 Gen10
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702 2.0 GHz,2000,2,128,256,256,"10,661,631",422,111,"18,051"
+Hewlett Packard Enterprise,"ProLiant DL325 Gen10
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702P 2.00 GHz,2000,1,64,128,128,"5,142,018",224,70.3,"15,724"
+Hewlett Packard Enterprise,"ProLiant DL325 Gen10
+Aug 14, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702P 2.00 GHz,2000,1,64,128,128,"5,530,830",231,79.5,"16,226"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+HPE Apollo 2000 Gen10 Plus
+Apr 22, 2020 | HTML | Text",3,Oracle Corporation,AMD EPYC 7702 2.0 GHz,2000,6,384,768,768,"31,966,408","1,281",524,"17,076"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+HPE Apollo 2000 Gen10 Plus
+Apr 22, 2020 | HTML | Text",2,Oracle Corporation,AMD EPYC 7702 2.0 GHz,2000,4,256,512,512,"21,298,319",894,403,"16,000"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+HPE Apollo 2000 Gen10 Plus
+Apr 22, 2020 | HTML | Text",4,Oracle Corporation,AMD EPYC 7702 2.0 GHz,2000,8,512,1024,1024,"42,615,750","1,687",700,"17,436"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+HPE Apollo 2000 Gen10 Plus
+Apr 22, 2020 | HTML | Text",4,Oracle Corporation,AMD EPYC 7742 2.25 GHz,2250,8,512,1024,1024,"43,715,840","1,721",678,"17,530"
+Hewlett Packard Enterprise,"Superdome Flex 280 - 4 Socket
+Nov 4, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL 2.90 GHz,2900,4,112,224,768,"10,102,176","1,117",258,"7,550"
+Hewlett Packard Enterprise,"Superdome Flex 280 - 8 Socket
+Nov 4, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL 2.90 GHz,2900,8,224,448,1536,"20,132,703","2,148",500,"7,628"
+Hewlett Packard Enterprise,"Superdome Flex 280 - 4 Socket
+Nov 4, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL 2.90 GHz,2900,4,112,224,768,"10,116,731","1,158",254,"7,446"
+Hewlett Packard Enterprise,"Superdome Flex 280 - 8 Socket
+Nov 4, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL 2.90 GHz,2900,8,224,448,1536,"19,501,160","2,132",503,"7,369"
+Hewlett Packard Enterprise,"ProLiant DL385 Gen10 Plus
+Mar 15, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,2,128,256,256,"12,550,024",546,120,"18,329"
+Hewlett Packard Enterprise,"ProLiant DL365 Gen10 Plus
+Mar 15, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7713 2.00 GHz,2000,2,128,256,256,"11,174,699",468,109,"18,268"
+Hewlett Packard Enterprise,"ProLiant DL345 Gen10 Plus
+Mar 15, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,1,64,128,128,"6,319,281",272,58,"18,260"
+Hewlett Packard Enterprise,"ProLiant DL325 Gen10 Plus
+Mar 15, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,1,64,128,128,"6,343,544",268,56.8,"18,845"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+Apollo 2000 Gen10 Plus
+Mar 15, 2021 | HTML | Text",3,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,6,384,768,768,"37,367,143","1,731",430,"17,266"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+Apollo 2000 Gen10 Plus
+Mar 15, 2021 | HTML | Text",2,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,4,256,512,512,"24,847,419","1,192",331,"16,320"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+Apollo 2000 Gen10 Plus
+Mar 15, 2021 | HTML | Text",3,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,6,384,768,768,"34,394,737","1,694",352,"16,205"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+Apollo 2000 Gen10 Plus
+Mar 15, 2021 | HTML | Text",2,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,4,256,512,512,"22,957,212","1,173",257,"15,574"
+Hewlett Packard Enterprise,"Apollo XL225n Gen10 Plus
+Apollo 2000 Gen10 Plus
+Mar 15, 2021 | HTML | Text",4,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,8,512,1024,1024,"49,655,346","2,260",523,"17,696"
+Hewlett Packard Enterprise,"ProLiant DL345 Gen10 Plus
+Mar 15, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45 GHz,2450,1,64,128,128,"5,797,203",270,53.7,"16,823"
+Hewlett Packard Enterprise,"ProLiant DL380 Gen10 Plus
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.30 GHz,2300,2,80,160,256,"8,284,788",647,143,"11,857"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10 Plus
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.30 GHz,2300,2,80,160,256,"8,229,748",651,119,"12,170"
+Hewlett Packard Enterprise,"ProLiant DL380 Gen10 Plus
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.30 GHz,2300,2,80,160,256,"8,125,401",619,127,"11,735"
+Hewlett Packard Enterprise,"ProLiant DL360 Gen10 Plus
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.30 GHz,2300,2,80,160,256,"8,108,256",623,110,"12,052"
+Hewlett Packard Enterprise,"ProLiant DL110 Gen10 Plus
+Aug 31, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6314U CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz),2300,1,32,64,64,"3,318,199",299,94.1,"9,581"
+Hewlett Packard Enterprise,"ProLiant DL110 Gen10 Plus
+Aug 31, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6314U CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz),2300,1,32,64,64,"3,269,735",307,93.8,"9,247"
+"Hewlett-Packard
+Hewlett-Packard Company","ProLiant DL385 G6 (2.6GHz, AMD Opteron 2435 processor)
+Jul 2, 2009 | HTML | Text",1,Oracle Corporation,2.6 GHz AMD Opteron 2435,2600,2,12,12,16,"491,305",258,120,"1,307"
+Hewlett-Packard Company,"Proliant DL360 G5 (3.0 GHz, Intel Xeon processor E5450)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5450,3000,2,8,8,16,"308,847",288,180,662
+Hewlett-Packard Company,"Proliant DL160 G5 (3.0 GHz, Intel Xeon processor E5450)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5450,3000,2,8,8,16,"308,022",269,160,698
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett-Packard Company,"Proliant DL580 G5 (1.86 GHz, Intel Xeon processor L7345)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L7345,1860,4,16,16,16,"359,523",387,271,546
+Hewlett-Packard Company,"Proliant DL180 G5 (3.00 GHz, Intel Xeon processor E5450)
+Jan 30, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5450,3000,2,8,8,16,"299,610",244,123,778
+Hewlett-Packard Company,"ProLiant DL180 G5 (2.50 GHz, Intel Xeon processor L5420)
+May 21, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,8,"282,281",189,106,930
+Hewlett-Packard Company,"ProLiant DL360 G5 (3.00 GHz, Intel Xeon processor E5450)
+Jun 4, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon E5450,3000,2,8,8,16,NC,NC,NC,NC
+Hewlett-Packard Company,"ProLiant DL160 G5 (2.50 GHz, Intel Xeon processor L5420)
+Jun 18, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,16,"281,914",233,148,734
+Hewlett-Packard Company,"ProLiant DL120 G5 (2.83 GHz, Intel Xeon processor X3360)
+Jun 20, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon X3360,2833,1,4,4,8,"190,630",136,69.5,908
+Hewlett-Packard Company,"ProLiant DL385 G5 (2.30GHz, AMD Opteron processor 2356)
+Nov 20, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 2356,2300,2,8,8,8,"240,914",299,178,498
+Hewlett-Packard Company,"ProLiant DL585 G5 (2.70GHz, AMD Opteron 8384)
+Dec 4, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 8384,2700,4,16,16,16,"622,890",521,299,763
+Hewlett-Packard Company,"ProLiant DL385 G5p (2.70GHz, AMD Opteron processor 2384)
+Dec 4, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 2384,2700,2,8,8,8,"341,306",257,147,835
+Hewlett-Packard Company,"ProLiant DL365 G5 (2.70GHz, AMD Opteron processor 2384)
+Jan 14, 2009 | HTML | Text",1,"BEA Systems,Inc.",AMD Opteron 2384,2700,2,8,8,8,"337,543",268,144,817
+Hewlett-Packard Company,"ProLiant DL785 G5 (2.30GHz, AMD Opteron 8376 HE)
+Feb 25, 2009 | HTML | Text",1,Oracle Corporation,Quad-Core AMD Opteron(r) Processor 8376 HE,2300,8,32,32,32,"1,093,578",799,444,866
+Hewlett-Packard Company,"ProLiant DL785 G5 (2.30GHz, AMD Opteron 8376 HE)
+Feb 25, 2009 | HTML | Text",1,Oracle Corporation,Quad-Core AMD Opteron(r) Processor 8376 HE,2300,8,32,32,32,"1,066,480",796,427,872
+Hewlett-Packard Company,"ProLiant DL380 G6 (2.26GHz, Intel Xeon L5520 processor)
+Apr 8, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5520,2266,2,8,16,8,NC,NC,NC,NC
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett-Packard Company,"ProLiant DL380 G5 (3.00GHz, Intel Xeon 5160 processor)
+Apr 8, 2009 | HTML | Text",1,"BEA Systems,Inc.",Intel Xeon 5160,3000,2,4,4,8,"159,151",258,172,382
+Hewlett-Packard Company,"ProLiant DL380 G5 (2.66GHz, Intel Xeon L5430 processor)
+Apr 8, 2009 | HTML | Text",1,"BEA Systems,Inc.",Intel Xeon L5430,2666,2,8,8,16,"306,620",253,170,734
+Hewlett-Packard Company,"ProLiant DL380 G4 (3.8GHz, Intel Xeon processor)
+Apr 8, 2009 | HTML | Text",1,"Sun Microsystems, Inc.",Intel Xeon 3.8GHz,3800,2,2,4,8,"26,880",394,226,45.2
+Hewlett-Packard Company,"ProLiant DL360 G6 (2.93GHz, Intel Xeon processor X5570)
+Apr 23, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon X5570,2933,2,8,16,8,"533,105",245,88.4,"1,586"
+Hewlett-Packard Company,"ProLiant DL785 G5 (2.50GHz, AMD Opteron 8381 HE)
+Jun 3, 2009 | HTML | Text",1,Oracle,Quad-Core AMD Opteron(r) Processor 8381 HE,2500,8,32,32,32,"1,136,736",793,430,905
+Hewlett-Packard Company,"ProLiant DL785 G5 (2.50GHz, AMD Opteron 8381 HE)
+Jun 3, 2009 | HTML | Text",1,Oracle,Quad-Core AMD Opteron(r) Processor 8381 HE,2500,8,32,32,32,"1,123,158",792,418,927
+Hewlett-Packard Company,"ProLiant SL2x170z G6
+ProLiant SL6000
+Jul 2, 2009 | HTML | Text",4,Oracle Corporation,Intel Xeon L5520,2267,8,32,64,32,NC,NC,NC,NC
+Hewlett-Packard Company,"ProLiant BL280c G6
+HP BladeSystem c7000 Enclosure
+Jul 15, 2009 | HTML | Text",16,Oracle Corporation,Intel Xeon L5520,2267,32,128,256,128,"7,210,418","2,783",802,"1,877"
+Hewlett-Packard Company,"ProLiant DL360 G6
+Aug 5, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5520,2267,2,8,16,8,NC,NC,NC,NC
+Hewlett-Packard Company,"ProLiant DL385 G6 (2.6GHz, AMD Opteron 2435 processor)
+Aug 26, 2009 | HTML | Text",1,IBM Corporation,2.6 GHz AMD Opteron 2435,2600,2,12,12,16,"535,814",260,124,"1,394"
+Hewlett-Packard Company,"ProLiant DL785 G6 (2.1 GHz, AMD Opteron 8425 HE)
+Sep 14, 2009 | HTML | Text",1,IBM Corporation,Six-Core AMD Opteron(r) Processor 8425 HE,2100,8,48,48,32,"1,696,373",852,468,"1,297"
+Hewlett-Packard Company,"ProLiant SL2x170z G6 (2.4 GHz, Intel Xeon L5530)
+ProLiant SL6000
+Nov 4, 2009 | HTML | Text",4,IBM Corporation,Intel Xeon L5530,2400,8,32,64,32,"2,111,524",664,191,"2,316"
+Hewlett-Packard Company,"ProLiant DL360 G6
+Nov 4, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon L5530,2400,2,8,16,8,"531,629",186,62,"2,013"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett-Packard Company,"ProLiant DL380 G6
+Nov 4, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon L5530,2400,2,8,16,8,"534,763",187,63.7,"2,012"
+Hewlett-Packard Company,"ProLiant BL2x220c G6
+HP BladeSystem c7000 Enclosure
+Nov 18, 2009 | HTML | Text",32,IBM Corporation,Intel Xeon L5520,2266,64,256,512,256,"16,445,126","5,547","1,696","2,113"
+Hewlett-Packard Company,"ProLiant DL170h G6 (2.4 GHz, Intel Xeon L5530)
+ProLiant h1000 G6
+Jan 13, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon L5530,2400,8,32,64,32,"2,116,272",680,217,"2,188"
+Hewlett-Packard Company,"ProLiant DL385 G7 (2.2GHz, AMD Opteron 6174)
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 6174,2200,2,12,24,16,"888,819",271,101,"2,355"
+Hewlett-Packard Company,"ProLiant SL2X170z G6
+ProLiant SL6000
+Apr 21, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon X5670,2933,8,48,96,64,"3,417,531",858,194,"3,106"
+Hewlett-Packard Company,"ProLiant DL360 G6 (2.93 GHz, Intel Xeon X5670 processor)
+Apr 21, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,16,"872,258",250,68.9,"2,692"
+Hewlett-Packard Company,"ProLiant DL380 G6 (2.93 GHz, Intel Xeon X5670 processor)
+Apr 21, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,16,"902,465",249,68.1,"2,780"
+Hewlett-Packard Company,"ProLiant DL170h G6 (2.93 GHz, Intel Xeon X5670 processor)
+ProLiant h1000 G6
+Apr 21, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon X5670,2933,8,48,96,64,"3,444,415",952,219,"2,882"
+Hewlett-Packard Company,"ProLiant DL170h G6 (2.93 GHz, Intel Xeon X5670 processor)
+ProLiant h1000 G6
+May 13, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon X5670,2933,8,48,96,64,"3,424,663",883,216,"3,008"
+Hewlett-Packard Company,"ProLiant SL2x170z G6
+ProLiant SL6000
+Jun 2, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon L5530,2400,8,32,64,32,"2,097,467",656,179,"2,357"
+Hewlett-Packard Company,"ProLiant SL2x170z G6
+ProLiant SL6000
+Jun 17, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon L5640,2267,8,48,96,64,"2,889,017",662,181,"3,210"
+Hewlett-Packard Company,"ProLiant DL360 G7 (2.26 GHz, Intel Xeon L5640 processor)
+Jul 28, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon L5640,2266,2,12,24,16,"732,062",178,54.6,"2,979"
+Hewlett-Packard Company,"ProLiant DL380 G7 (2.26 GHz, Intel Xeon L5640 processor)
+Aug 11, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon L5640,2266,2,12,24,16,"725,620",172,53.6,"3,052"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Hewlett-Packard Company,"ProLiant DL170e G6
+HP ProLiant DL2000
+Dec 1, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon L5640,2267,8,48,96,64,"2,886,872",660,178,"3,212"
+Hewlett-Packard Company,"ProLiant DL380 G7 (3.07 GHz, Intel Xeon X5675 processor)
+Feb 24, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,16,"894,314",222,52.3,"3,197"
+Hewlett-Packard Company,"ProLiant SL170s G6 (3.06 GHz, Intel Xeon X5675 processor)
+ProLiant SL6500
+Oct 4, 2011 | HTML | Text",8,Oracle Corporation,Intel Xeon X5675,3067,16,96,192,128,"7,299,642","1,761",389,"3,322"
+Hewlett-Packard Company,"ProLiant DL360 G7 (3.07 GHz, Intel Xeon X5675 processor)
+Oct 19, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3067,2,12,24,16,"911,658",216,55.6,"3,329"
+Hewlett-Packard Company,"ProLiant DL165 G7 (2.30 GHz, AMD Opteron 6276 processor)
+Nov 14, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,2,32,32,32,"1,180,059",308,68.9,"2,881"
+Hewlett-Packard Company,"ProLiant DL385p Gen8 (2.50 GHz, AMD Opteron 6380 processor)
+Dec 3, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6380,2500,2,32,32,64,"1,660,274",306,66.6,"4,116"
+Hewlett-Packard Company,"ProLiant DL560 Gen9
+Sep 29, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4669 v3 2.10 GHz,2100,4,72,144,128,NC,NC,NC,NC
+"Hewlett-Packard Company
+Intel Corp.","ProLiant DL580 G3
+Feb 17, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor 7020,2660,4,8,16,16,"86,082",833,520,61.1
+"Hewlett-Packard Company
+Intel Corp.","ProLiant DL580 G4
+Feb 17, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor 7110M,2600,4,8,16,16,"148,741",732,575,114
+"Hewlett-Packard Company
+Intel Corp.","ProLiant ML110 G4
+Feb 17, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor 3040,1860,1,2,2,4,"54,479",117,86,268
+"Hewlett-Packard Company
+Intel Corp.","ProLiant ML110 G5
+Feb 17, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor 3075,2660,1,2,2,4,"98,472",135,93.7,431
+"Hewlett-Packard Company
+Intel Corp.","ProLiant DL360 G4p (Historical)
+Feb 23, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor 3.4 GHz,3400,2,2,1,6,"52,239",352,216,95.9
+"Hewlett-Packard Company
+Intel Corp.","ProLiant ML110 G3 (Historical)
+Feb 23, 2011 | HTML | Text",1,Oracle Corporation,Intel Pentium D Processor 930,3000,1,2,2,4,"52,303",169,105,190
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Hewlett-Packard Company
+Intel Corp.","ProLiant DL580 G5 (Historical)
+Feb 23, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor E7330,2400,4,16,16,64,"506,388",627,418,489
+"Hitachi, Ltd.","HA8000/RS440 (AK1)
+Feb 23, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X7560,2260,4,32,64,128,"1,957,863","1,103",575,"1,212"
+"Hitachi, Ltd.","HA8000/SS10 (DK1)
+Feb 23, 2011 | HTML | Text",1,IBM Corporation,Intel Core i3-540,3067,1,2,4,8,"149,942",63.2,24.3,"1,701"
+"Hitachi, Ltd.","HA8000/TS10 (FK1)
+Feb 23, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,8,"325,852",124,43.5,"2,018"
+"Hitachi, Ltd.","HA8000/RS110 (CK1)
+Feb 23, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,8,"324,736",137,51.5,"1,787"
+"Hitachi, Ltd.","BS320 Server Blade C51P5
+Server Chassis BS320A
+Feb 23, 2011 | HTML | Text",10,IBM Corporation,Intel Xeon X5675,3067,20,120,240,240,"9,283,341","2,799","1,278","2,377"
+"Hitachi, Ltd.","HA8000/TS20 (LK1)
+Mar 9, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,24,"900,403",304,132,"2,075"
+"Hitachi, Ltd.","HA8000/RS210 (LK1)
+Mar 9, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,24,"899,893",302,136,"2,125"
+"Hitachi, Ltd.","HA8000/RS220 (LK1)
+Mar 9, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,24,"899,238",297,132,"2,126"
+"Hitachi, Ltd.","BS2000 Server Blade E55A2
+Server Chassis BS2000A
+Mar 9, 2011 | HTML | Text",8,IBM Corporation,Intel Xeon X5675,3067,16,96,192,192,"7,437,040","2,507","1,048","2,059"
+"Hitachi, Ltd.","HA8000-bd/BD10X1
+HA8000-bd 5U Base Unit
+Apr 12, 2011 | HTML | Text",40,IBM Corporation,Intel Core i7 610E,2533,40,80,160,320,"5,079,053","1,897",833,"1,856"
+"Hitachi, Ltd.","HA8000/RS210 (AL)
+Aug 10, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3066,2,12,24,48,"913,110",293,118,"2,229"
+"Hitachi, Ltd.","HA8000/RS220 (AL)
+Aug 10, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3066,2,12,24,48,"914,922",293,124,"2,204"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Hitachi, Ltd.","HA8000/TS20 (AL)
+Aug 10, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3066,2,12,24,48,"917,438",301,125,"2,149"
+"Hitachi, Ltd.","HA8000/RS440 (AL)
+Aug 10, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E7-4870,2400,4,40,80,128,"2,225,321",837,423,"1,816"
+"Hitachi, Ltd.","HA8000/RS110 (DL)
+Aug 24, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1280,3500,1,4,8,8,"412,411",114,37.6,"2,876"
+"Hitachi, Ltd.","HA8000/SS10 (DL)
+Aug 24, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1220,3100,1,4,4,8,"329,862",92.8,22.4,"3,026"
+"Hitachi, Ltd.","HA8000/TS10 (DL)
+Aug 24, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1280,3500,1,4,8,8,"411,743",98.4,24.2,"3,552"
+"Hitachi, Ltd.","BS2000 Server Blade E57A2
+Server Chassis BS2000A
+Nov 9, 2011 | HTML | Text",8,IBM Corporation,Intel Xeon processor E7-8870,2400,16,160,320,256,"9,644,336","3,948","2,024","1,586"
+"Hitachi, Ltd.","HA8000/TS20BM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,32,"1,329,468",294,80.6,"3,987"
+"Hitachi, Ltd.","HA8000/RS210-hHM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670,2600,2,16,32,32,"1,394,450",337,99.3,"3,597"
+"Hitachi, Ltd.","HA8000/RS220-hHM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670,2600,2,16,32,32,"1,401,473",325,104,"3,677"
+"Hitachi, Ltd.","HA8000/RS210AM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,32,"1,327,737",297,92.9,"3,775"
+"Hitachi, Ltd.","HA8000/RS110-hHM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,1,8,16,16,"670,220",171,58.2,"3,224"
+"Hitachi, Ltd.","HA8000/RS220AM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,32,"1,329,120",286,88.9,"3,911"
+"Hitachi, Ltd.","HA8000/TS10-hJM
+Aug 22, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,1,8,16,16,"671,815",156,52.7,"3,501"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Hitachi, Ltd.","HA8000/RS110 (DL2)
+Mar 6, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1280v2,3600,1,4,8,8,"494,876",94,45.8,"3,744"
+"Hitachi, Ltd.","HA8000/TS10 (DL2)
+Mar 20, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1280v2,3600,1,4,8,8,"495,083",85.2,37.2,"4,342"
+"Hitachi, Ltd.","HA8000/SS10 (DL2)
+Mar 20, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E3-1220v2 (Intel Turbo Boost Technology up to 3.50 GHz),3100,1,4,4,8,"407,490",69.7,36.6,"3,963"
+"Huawei Technologies Co., Ltd","XH310
+Tecal X6000
+Nov 10, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon X3480,3067,4,16,32,32,"1,317,977",470,109,"2,286"
+"Huawei Technologies Co., Ltd","XH310
+Tecal X6000
+Nov 10, 2010 | HTML | Text",4,IBM Corporation,Intel Xeon X3470,2933,4,16,32,32,"1,284,361",472,109,"2,234"
+"Huawei Technologies Co., Ltd","XH620
+Tecal T6000
+Mar 9, 2011 | HTML | Text",2,IBM Corporation,Intel Xeon X5670,2930,4,24,48,24,"1,771,743",449,109,"3,041"
+"Huawei Technologies Co., Ltd","XH620
+Tecal T6000
+Jul 13, 2011 | HTML | Text",2,IBM Corporation,Intel Xeon X5675,3067,4,24,48,32,"1,854,268",463,108,"3,152"
+"Huawei Technologies Co., Ltd","RH2285
+Nov 2, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon L5640,2266,2,12,24,16,"738,788",164,51,"3,199"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Mar 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,32,"1,280,523",257,59.7,"4,376"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Mar 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650L,1800,2,16,32,32,"959,239",178,57.5,"4,186"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Mar 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2670,2600,2,16,32,32,"1,336,479",282,55.6,"4,590"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Mar 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650L,1800,2,16,32,32,"960,074",170,55.3,"4,369"
+"Huawei Technologies Co., Ltd","XH621 V2
+Tecal X6000
+Mar 28, 2012 | HTML | Text",2,IBM Corporation,Intel Xeon E5-2650L,1800,4,32,64,64,"1,926,420",386,142,"3,712"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 2, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,32,"1,246,966",243,54.7,"4,669"
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 2, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,48,"1,269,386",240,52.3,"4,752"
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 2, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,48,"1,282,967",239,51.6,"4,830"
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 16, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2660,2200,2,16,32,16,"1,297,229",239,54,"5,088"
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 16, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2650L,1800,2,16,32,16,"1,007,084",161,52.2,"4,846"
+"Huawei Technologies Co., Ltd","RH2288 V2
+May 16, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2670,2600,2,16,32,16,"1,394,534",279,54.8,"4,871"
+"Huawei Technologies Co., Ltd","RH2285 V2
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2450L,1800,2,16,32,16,"1,006,482",167,54,"4,734"
+"Huawei Technologies Co., Ltd","RH2285 V2
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,16,"1,328,249",249,53,"5,052"
+"Huawei Technologies Co., Ltd","RH2285 V2
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2450,2100,2,16,32,16,"1,254,329",231,53.4,"4,959"
+"Huawei Technologies Co., Ltd","RH2285 V2
+May 30, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2440,2400,2,12,24,16,"986,986",207,55.1,"4,117"
+"Huawei Technologies Co., Ltd","XH320 V2
+Tecal X6000 V2
+Jun 28, 2012 | HTML | Text",4,Oracle Corporation,Intel Xeon E5-2470,2300,8,64,128,64,"5,289,221","1,079",180,"5,065"
+"Huawei Technologies Co., Ltd","RH2485 V2
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4640,2400,4,32,64,48,"2,395,181",428,92.3,"5,013"
+"Huawei Technologies Co., Ltd","RH2485 V2
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-4640,2400,4,32,64,48,"2,402,711",430,92.7,"4,991"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Huawei Technologies Co., Ltd","RH2288 V2
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2630,2300,2,12,24,32,"968,689",205,56.2,"3,990"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,32,"1,348,825",275,56.2,"4,684"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2640,2500,2,12,24,32,"1,034,209",231,57,"3,992"
+"Huawei Technologies Co., Ltd","BH640 V2
+HuaWei Tecal E6000
+Aug 8, 2012 | HTML | Text",3,Oracle Corporation,Intel Xeon E5-4640,2400,12,96,192,96,"7,067,768","1,253",283,"5,120"
+"Huawei Technologies Co., Ltd","RH2285 V2
+Sep 5, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2470,2300,2,16,32,24,"1,384,613",254,53.9,"5,203"
+"Huawei Technologies Co., Ltd","BH622 V2
+HuaWei Tecal E6000
+Sep 5, 2012 | HTML | Text",4,Oracle Corporation,Intel Xeon E5-2660,2200,8,64,128,64,"5,271,615","1,003",238,"4,806"
+"Huawei Technologies Co., Ltd","RH2285 V2
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470,2300,2,16,32,24,"1,489,644",241,51,"5,717"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2680,2700,2,16,32,24,"1,437,235",236,66.8,"4,786"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,445,741",239,51.5,"5,453"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Nov 28, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,16,"1,397,144",231,52.4,"5,544"
+"Huawei Technologies Co., Ltd","RH2288 V2
+Jun 26, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2650,2000,2,16,32,24,"1,307,626",207,55.3,"5,284"
+"Huawei Technologies Co., Ltd","RH2485 V2
+Jul 10, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-4607,2200,4,24,48,60,"1,693,493",324,89.6,"4,266"
+"Huawei Technologies Co., Ltd","RH2288H V2-8 Rack Server
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660V2,2200,2,20,40,24,"1,759,570",202,52,"7,336"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Huawei Technologies Co., Ltd","Tecal CH121
+Huawei Tecal E9000
+Oct 21, 2013 | HTML | Text",6,IBM Corporation,Intel Xeon E5-2660 v2,2200,12,120,240,144,"10,356,616","1,310",334,"6,309"
+"Huawei Technologies Co., Ltd","Tecal CH121
+Huawei Tecal E9000
+Oct 21, 2013 | HTML | Text",8,IBM Corporation,Intel Xeon E5-2660 v2,2200,16,160,320,192,"13,828,286","1,732",417,"6,453"
+"Huawei Technologies Co., Ltd","RH2288H V2
+May 7, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2609,2400,2,8,8,48,"543,919",137,68.7,"2,716"
+"Huawei Technologies Co., Ltd","XH628 V3
+Huawei FusionServer X6800
+Oct 21, 2014 | HTML | Text",3,IBM Corporation,Intel Xeon E5-2699 v3,2300,6,108,216,192,NC,NC,NC,NC
+"Huawei Technologies Co., Ltd","FusionServer RH2288 V3
+Oct 21, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 V3,2300,2,36,72,64,NC,NC,NC,NC
+"Huawei Technologies Co., Ltd","FusionServer RH2288 V3
+Dec 1, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699V3,2300,2,36,72,64,NC,NC,NC,NC
+"Huawei Technologies Co., Ltd","Fusion Server RH2288H V3
+Sep 25, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,64,"3,206,810",266,44.8,"10,700"
+"Huawei Technologies Co., Ltd","Fusion Server RH2288H V3
+Apr 27, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2698 V4,2200,2,40,80,64,"4,009,213",329,43.5,"12,212"
+"Huawei Technologies Co., Ltd","Fusion Server XH620 V3
+Huawei FusionServer X6800
+Apr 27, 2016 | HTML | Text",4,Oracle Corporation,Intel Xeon E5-2698 V4,2200,8,160,320,256,"15,938,684","1,419",217,"10,653"
+"Huawei Technologies Co., Ltd","FusionServer CH121 V3
+Huawei FusionServer E9000
+Dec 21, 2016 | HTML | Text",8,Oracle Corporation,Intel Xeon E5-2683 V4,2100,16,256,512,4096,"24,662,648","3,868","1,080","5,316"
+"Huawei Technologies Co., Ltd","FusionServer CH121 V3
+Huawei FusionServer E9000
+Dec 21, 2016 | HTML | Text",10,Oracle Corporation,Intel Xeon E5-2683 V4,2100,20,320,640,5120,"30,620,865","4,425","1,250","5,555"
+"Huawei Technologies Co., Ltd","FusionServer XH321 V3
+Huawei FusionServer X6000
+Mar 29, 2017 | HTML | Text",4,Oracle Corporation,Intel Xeon E5-2699 v4,2200,8,176,352,256,"15,118,177","1,322",232,"10,261"
+"Huawei Technologies Co., Ltd","Fusion Server 2288H V5
+Jul 11, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,2,56,112,192,"5,941,377",461,49.6,"12,968"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Huawei Technologies Co., Ltd","Fusion Server 2288H V5
+Jul 11, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,604,531",423,48.9,"13,398"
+"Huawei Technologies Co., Ltd","Fusion Server 2288H V5
+Sep 27, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,835,340",437,50.3,"13,478"
+"Huawei Technologies Co., Ltd","Fusion Server 2288H V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"5,876,718",415,49.9,"13,490"
+"Huawei Technologies Co., Ltd","Fusion Server 5288 V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"5,865,062",414,50,"13,388"
+"Huawei Technologies Co., Ltd","Fusion Server 2288H V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"6,119,759",419,52.2,"14,224"
+"Huawei Technologies Co., Ltd","Fusion Server 5288 V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"6,112,700",422,51.5,"14,071"
+"Huawei Technologies Co., Ltd","Fusion Server 1288H V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"6,065,816",421,51.7,"14,209"
+"Huawei Technologies Co., Ltd","Fusion Server 1288H V5
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280,2700,2,56,112,192,"5,862,280",414,50.3,"13,465"
+IBM Corporation,"IBM System x3450
+Mar 26, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon E5462,2800,2,8,8,16,"323,998",252,130,854
+IBM Corporation,"IBM System x3200 M2
+May 21, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon X3360,2833,1,4,4,4,"185,456",115,57.5,"1,054"
+IBM Corporation,"IBM System x3250 M2
+May 21, 2008 | HTML | Text",1,IBM Corporation,Intel X3350,2666,1,4,4,4,"173,021",119,68.9,913
+IBM Corporation,"IBM System x3350
+May 21, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon X3360,2833,1,4,4,4,"187,275",126,71.7,926
+IBM Corporation,"IBM System x3250 M2
+Aug 27, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon X3360,2830,1,4,4,4,"188,975",127,70,940
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+IBM Corporation,"IBM System x3350
+Aug 27, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon X3360,2830,1,4,4,4,"187,946",125,65.9,974
+IBM Corporation,"IBM System x3200 M2
+Sep 10, 2008 | HTML | Text",1,IBM Corporation,Intel Xeon X3360,2833,1,4,4,4,"190,234",119,56.7,"1,064"
+IBM Corporation,"IBM System x3650 M2
+Apr 23, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X5570,2933,2,8,16,8,"620,270",244,81.4,"1,860"
+IBM Corporation,"IBM System x3650 M2
+May 20, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X5570,2933,2,8,16,8,"617,957",236,72.2,"1,929"
+IBM Corporation,"IBM System x3550 M2
+May 20, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X5570,2933,2,8,16,8,"623,736",244,74.3,"1,892"
+IBM Corporation,"IBM System x iDataPlex dx360 M2
+IBM iDataPlex 2U Flex chassis
+Jun 3, 2009 | HTML | Text",2,IBM Corporation,Intel Xeon X5570,2933,4,16,32,24,"1,298,719",475,116,"2,066"
+IBM Corporation,"IBM System x3550 M2
+Jun 3, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X5570,2933,2,8,16,8,"639,516",243,74.1,"1,938"
+IBM Corporation,"IBM System x3650 M2
+Jun 3, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X5570,2933,2,8,16,8,"640,447",237,72.5,"1,977"
+IBM Corporation,"IBM System x3400 M2
+Jun 3, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon E5540,2533,2,8,16,8,"548,091",223,70.9,"1,750"
+IBM Corporation,"IBM System x iDataPlex dx360 M2
+IBM iDataPlex 2U Flex chassis
+Aug 27, 2009 | HTML | Text",2,IBM Corporation,Intel Xeon L5530,2400,4,16,32,16,"1,069,123",339,98.9,"2,231"
+IBM Corporation,"System x3250 M3
+Oct 8, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"314,314",115,43,"2,050"
+IBM Corporation,"System x3200 M3
+Oct 8, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"311,452",118,45.8,"2,035"
+IBM Corporation,"IBM System x3650 M2
+Oct 23, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon L5530,2400,2,8,16,8,"536,046",179,65.4,"2,053"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+IBM Corporation,"IBM System x3550 M2
+Nov 18, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon L5530,2400,2,8,16,8,"530,326",180,65.8,"2,018"
+IBM Corporation,"IBM System x3200 M3
+Nov 18, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"314,803",115,45.4,"2,057"
+IBM Corporation,"IBM System x3250 M3
+Nov 18, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon X3470,2933,1,4,8,8,"313,804",113,41.6,"2,098"
+IBM Corporation,"IBM System x3400 M2
+Dec 2, 2009 | HTML | Text",1,IBM Corporation,Intel Xeon E5540,2533,2,8,16,8,"553,807",218,67,"1,865"
+IBM Corporation,"IBM System x iDataPlex dx360 M3
+IBM iDataPlex 2U Flex chassis
+Apr 7, 2010 | HTML | Text",2,IBM Corporation,Intel Xeon X5670,2933,4,24,48,24,"1,800,052",475,101,"3,038"
+IBM Corporation,"IBM System x3400 M3
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"917,430",258,69.2,"2,660"
+IBM Corporation,"IBM System x3650 M3
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"922,152",238,66.3,"2,927"
+IBM Corporation,"IBM System x3550 M3
+Apr 7, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"912,178",247,66,"2,843"
+IBM Corporation,"IBM System x iDataPlex dx360 M3
+IBM iDataPlex 2U Flex chassis
+Jun 2, 2010 | HTML | Text",2,IBM Corporation,Intel Xeon L5640,2267,4,24,48,24,"1,471,188",341,92.7,"3,159"
+IBM Corporation,"System x3620 M3
+Jul 6, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"910,529",236,64,"2,916"
+IBM Corporation,"System x3630 M3
+Sep 22, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"906,596",259,84.6,"2,550"
+IBM Corporation,"System x3200 M3
+Oct 20, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,8,"323,190",119,45,"2,154"
+IBM Corporation,"System x3250 M3
+Oct 20, 2010 | HTML | Text",1,IBM Corporation,Intel Xeon X3480,3067,1,4,8,8,"320,730",113,42.3,"2,215"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+IBM Corporation,"IBM System x3620 M3
+Mar 2, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,12,"932,916",231,63.9,"3,039"
+IBM Corporation,"System x3630 M3
+Mar 2, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,12,"928,920",251,80.2,"2,722"
+IBM Corporation,"IBM System x3400 M3
+Mar 9, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,12,"928,859",246,63.2,"2,891"
+IBM Corporation,"IBM System x3650 M3
+Apr 20, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,16,"889,012",218,56.1,"3,152"
+IBM Corporation,"IBM System x3550 M3
+Apr 20, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5675,3067,2,12,24,16,"890,651",222,58.4,"3,093"
+IBM Corporation,"IBM System x3755 M3
+Nov 30, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6276 (2.30 GHz),2300,4,64,64,64,"2,242,893",580,122,"2,968"
+IBM Corporation,"IBM System x3550 M4
+Mar 21, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,NC,NC,NC,NC
+IBM Corporation,"IBM System x3650 M4
+Mar 21, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,NC,NC,NC,NC
+IBM Corporation,"IBM System x3500 M4
+Mar 21, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2680,2700,2,16,32,24,"1,426,130",247,56.6,"4,708"
+IBM Corporation,"IBM System x iDataPlex dx360 M4
+iDataPlex dx360 M4 2U Chassis
+Mar 22, 2012 | HTML | Text",2,IBM Corporation,Intel Xeon E5-2660,2200,4,32,64,48,"2,422,142",379,96.5,"5,043"
+IBM Corporation,"IBM System x3650 M4
+Aug 22, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,24,"1,204,440",196,56.1,"4,661"
+IBM Corporation,"IBM System x3550 M4
+Aug 22, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660,2200,2,16,32,16,"1,169,290",190,56.5,"4,662"
+IBM Corporation,"IBM System x3300 M4
+Aug 22, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470,2300,2,16,32,24,"1,460,149",259,52.1,"5,122"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+IBM Corporation,"IBM Flex System x440 Compute Node
+IBM Flex System Enterprise Chassis
+Oct 17, 2012 | HTML | Text",7,IBM Corporation,Intel Xeon E5-4640 (Intel Turbo Boost Technology up to 2.80 GHz),2400,28,224,448,336,"18,948,103","3,331",812,"4,847"
+IBM Corporation,"IBM System x iDataPlex dx360 M4
+iDataPlex dx360 M4 2U Chassis
+Oct 31, 2012 | HTML | Text",2,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,4,32,64,48,"2,899,364",507,99.1,"5,392"
+IBM Corporation,"IBM System x3650 M4
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,450,305",262,57.2,"5,054"
+IBM Corporation,"IBM System x3500 M4
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,459,934",256,57.3,"5,108"
+IBM Corporation,"IBM System x3550 M4
+Oct 31, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz),2200,2,16,32,24,"1,452,648",265,60.6,"4,953"
+IBM Corporation,"IBM System x3300 M4
+Nov 14, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz),2300,2,16,32,24,"1,482,687",260,50.8,"5,418"
+IBM Corporation,"IBM System x3530 M4
+Nov 14, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz),2300,2,16,32,24,"1,463,219",274,62.6,"5,006"
+IBM Corporation,"IBM System x3630 M4
+Nov 14, 2012 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz),2300,2,16,32,24,"1,461,469",269,58.1,"5,117"
+IBM Corporation,"IBM NeXtScale nx360 M4
+IBM NeXtScale n1200 Enclosure
+Oct 2, 2013 | HTML | Text",12,IBM Corporation,Intel Xeon E5-2660 v2,2200,24,240,480,288,NC,NC,NC,NC
+IBM Corporation,"IBM System x3650 M4
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,64,NC,NC,NC,NC
+IBM Corporation,"IBM System x3500 M4
+Oct 2, 2013 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2660 v2,2200,2,20,40,32,NC,NC,NC,NC
+IBM Corporation,"IBM System x iDataPlex dx360 M4
+iDataPlex dx360 M4 2U Chassis
+Oct 2, 2013 | HTML | Text",2,IBM Corporation,Intel Xeon E5-2660 v2,2200,4,40,80,48,NC,NC,NC,NC
+IBM Corporation,"IBM NeXtScale nx360 M4 (Intel Xeon E5-2660 v2)
+IBM NeXtScale n1200 Enclosure
+May 14, 2014 | HTML | Text",12,IBM Corporation,Intel Xeon E5-2660 v2,2200,24,240,480,288,NC,NC,NC,NC
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"IBM Corporation
+Intel Corp.","IBM System x3200 M2
+Feb 17, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon Processor E3110,3000,1,2,2,4,"118,486",117,75.2,605
+Inspur Corporation,"NF5280M4
+Nov 12, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz (Intel Turbo Boost Technology up to 3.60 GHz),2300,2,36,72,64,NC,NC,NC,NC
+Inspur Corporation,"NF5280 M4
+Aug 30, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,128,"3,561,599",245,45.7,"12,296"
+Inspur Corporation,"Inspur NF5280M5
+May 23, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,2,56,112,192,"5,821,446",454,49.4,"13,064"
+Inspur Corporation,"Inspur Yingxin NF8480M5
+Aug 1, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,4,112,224,384,"9,920,959",726,158,"12,198"
+Inspur Corporation,"Inspur NF5180M5
+Aug 1, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100,2,56,112,192,"5,802,662",458,51.3,"12,167"
+Inspur Corporation,"Inspur NF5280M5
+Aug 15, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,727,527",432,49.5,"13,481"
+Inspur Corporation,"Inspur NF5280M5
+Oct 9, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2200,2,56,112,192,"4,864,136",347,48.3,"12,385"
+Inspur Corporation,"Inspur NF5280M5
+Jun 3, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,2,56,112,192,"5,853,828",410,48.6,"14,365"
+Inspur Corporation,"Inspur NF5180M5
+Jul 2, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,2,56,112,192,"5,814,232",414,48.2,"14,223"
+Inspur Corporation,"Inspur Yingxin NF8480M5
+Oct 7, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,4,112,224,384,"11,896,061",919,102,"13,013"
+Inspur Corporation,"Inspur NF8480M6
+Jan 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL,2900,4,112,224,384,"11,556,864","1,008",104,"11,344"
+Inspur Corporation,"Inspur NF5180M6
+Jul 29, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8352Y Processor,2200,2,64,128,512,"6,652,024",680,156,"9,100"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Inspur Corporation,"Inspur NF5180M6
+Jul 29, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6336Y Processor,2400,2,48,96,256,"5,414,537",650,176,"7,915"
+Inspur Corporation,"Inspur NF5280M5
+Aug 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Silver 4214,2200,2,24,48,384,"1,968,840",289,112,"5,116"
+Inspur Corporation,"Inspur NF5280M5
+Aug 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6238R,2200,1,28,56,384,"2,249,194",277,92.5,"6,316"
+Inspur Corporation,"Inspur NF5280M5
+Aug 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6252,2100,1,24,48,384,"1,908,801",262,93.6,"5,694"
+Inspur Corporation,"Inspur NF5180M6
+Aug 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"8,080,710",625,129,"12,271"
+Inspur Corporation,"Inspur NF5280M5
+Aug 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 5218,2300,2,32,64,384,"2,581,837",367,114,"5,696"
+"Inspur(Beijing) Electronic Information Industry Co., Ltd","NF290D2 (2.5 GHz, Intel Xeon Processor L5420)
+Mar 26, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,8,"262,599",178,101,910
+"Intel Corp.
+Parts Built
+Intel Corp.","Intel Platform SE7520AF2 Server Board (3.6 GHz/1M L2 Intel Xeon processor)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor 3.6 GHz,3600,2,2,4,4,"40,852",336,159,87.4
+"LSDtech
+Telecommunications Technology Association","L224S-D/F/V-1
+Sep 23, 2020 | HTML | Text",1,Oracle Corporation,Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz,3000,2,24,48,196,"2,297,344",432,131,"4,130"
+Lenovo Global Technology,"ThinkSystem SR650 (Intel Xeon Platinum 8176 CPU 2.10 GHz)
+Jul 11, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100,2,56,112,192,"5,025,064",357,57.7,"12,336"
+Lenovo Global Technology,"ThinkSystem SD530
+ThinkSystem SD530
+Jul 19, 2017 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8176,2100,8,224,448,768,"19,563,206","1,434",256,"11,472"
+Lenovo Global Technology,"ThinkSystem SR850
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100,4,112,224,384,"10,052,756",688,95.8,"13,010"
+Lenovo Global Technology,"ThinkSystem SR650
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz),2100,1,28,56,96,"2,532,117",183,45.6,"11,406"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Lenovo Global Technology,"ThinkSystem SN550
+Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)
+Oct 25, 2017 | HTML | Text",14,Oracle Corporation,Intel Xeon Platinum 8176,2100,28,784,1568,2688,"69,444,875","5,288","1,446","10,738"
+Lenovo Global Technology,"ThinkSystem SD530
+ThinkSystem D2 Enclosure
+Sep 12, 2018 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8176,2100,8,224,448,768,"19,865,096","1,474",241,"11,756"
+Lenovo Global Technology,"ThinkSystem SN850
+Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)
+Sep 27, 2018 | HTML | Text",7,Oracle Corporation,Intel Xeon Platinum 8176,2100,28,784,1568,2688,"70,603,716","5,366",820,"11,538"
+Lenovo Global Technology,"ThinkSystem SR950
+Sep 27, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,8,224,448,768,"20,352,398","1,479",182,"12,377"
+Lenovo Global Technology,"ThinkSystem SR150
+Jan 17, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon E-2176G,3700,1,6,12,32,"836,281",87.2,16.8,"10,273"
+Lenovo Global Technology,"ThinkSystem SR650
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,2,56,112,192,"4,972,543",352,67.7,"12,091"
+Lenovo Global Technology,"ThinkSystem SR630
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8176,2100,2,56,112,192,"4,962,317",355,72.3,"11,870"
+Lenovo Global Technology,"ThinkSystem SR950
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2200,8,224,448,768,"19,972,927","1,329",281,"12,886"
+Lenovo Global Technology,"ThinkSystem SR650 (Intel Xeon Platinum 8280 CPU 2.70 GHz)
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 CPU 2.70 GHz,2700,1,28,56,96,"2,626,299",177,50,"11,631"
+Lenovo Global Technology,"ThinkSystem SR850
+Jun 5, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L CPU 2.20 GHz,2200,4,112,224,384,"10,349,524",711,119,"13,154"
+Lenovo Global Technology,"ThinkSystem SD530
+ThinkSystem SD530
+Jul 17, 2019 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8276L,2200,8,224,448,768,"19,698,461","1,324",315,"12,377"
+Lenovo Global Technology,"ThinkSystem SR850
+Jul 17, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276L,2200,4,112,224,384,"10,221,111",672,121,"13,357"
+Lenovo Global Technology,"Think System SR635
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"6,370,222",255,74.6,"18,555"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Lenovo Global Technology,"Think System SR655
+Aug 7, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"6,417,037",243,76.8,"19,149"
+Lenovo Global Technology,"ThinkSystem SN850
+Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)
+Aug 21, 2019 | HTML | Text",7,Oracle Corporation,Intel Xeon Platinum 8276L,2200,28,784,"1,568","2,688","71,032,994","4,985","1,052","12,295"
+Lenovo Global Technology,"Think System SR655
+Sep 19, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"6,647,681",240,66.1,"20,176"
+Lenovo Global Technology,"Think System SR635
+Sep 19, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25Ghz,2250,1,64,128,128,"6,668,200",254,63.2,"19,422"
+Lenovo Global Technology,"Think System SR665
+May 11, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"12,150,181",395,82.3,"23,191"
+Lenovo Global Technology,"Think System SR665
+May 11, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"11,986,479",394,92.4,"22,879"
+Lenovo Global Technology,"Think System SR645
+May 11, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"12,003,050",403,99.5,"22,467"
+Lenovo Global Technology,"Think System SR645
+May 11, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"12,181,243",404,82.5,"22,877"
+Lenovo Global Technology,"Think System SR665
+Jun 10, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"12,166,530",391,82.8,"23,428"
+Lenovo Global Technology,"Think System SR665
+Jun 10, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"11,944,946",392,93.9,"22,903"
+Lenovo Global Technology,"Think System SR645
+Jun 10, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"11,962,483",398,94,"22,642"
+Lenovo Global Technology,"Think System SR645
+Jun 10, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,2,128,256,256,"12,184,530",400,84,"23,082"
+Lenovo Global Technology,"Think System SR655
+Aug 6, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,1,64,128,128,"6,617,761",224,63.8,"21,603"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Lenovo Global Technology,"Think System SR655
+Aug 6, 2020 | HTML | Text",1,Oracle Corporation,AMD EPYC 7742 2.25GHz,2250,1,64,128,128,"6,446,460",221,64.6,"21,074"
+Lenovo Global Technology,"ThinkSystem SR860V2
+Dec 16, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8376HL,2600,4,112,224,384,"9,383,160",721,138,"11,300"
+Lenovo Global Technology,"ThinkSystem SR645
+Mar 24, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,2,128,256,256,"12,386,273",460,75.6,"23,332"
+Lenovo Global Technology,"ThinkSystem SR645
+Mar 24, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,2,128,256,256,"12,283,667",459,104,"22,963"
+Lenovo Global Technology,"ThinkSystem SR665
+Apr 8, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,2,128,256,256,"12,412,812",454,79.3,"23,505"
+Lenovo Global Technology,"ThinkSystem SR665
+May 6, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,2,128,256,256,"12,301,551",455,108,"23,120"
+Lenovo Global Technology,"ThinkSystem SR645
+May 6, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,2,128,256,256,"12,303,077",461,102,"23,036"
+Lenovo Global Technology,"ThinkSystem SR655
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,1,64,128,128,"6,114,552",228,53,"21,653"
+Lenovo Global Technology,"ThinkSystem SR655
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,1,64,128,128,"6,176,005",228,52.5,"21,843"
+Lenovo Global Technology,"ThinkSystem SR635
+Jun 30, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763 2.45GHz,2450,1,64,128,128,"6,152,117",240,54,"21,133"
+NEC Corporation,"ECO CENTER
+Jul 31, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,8,"288,502",175,102,"1,010"
+NEC Corporation,"Express5800/i120Ra-e1(Intel Xeon L5410)
+Aug 13, 2008 | HTML | Text",1,"BEA System, Inc.",Intel Xeon L5410,2333,2,8,8,8,"265,325",186,106,876
+NEC Corporation,"Express5800/iR120a-1E
+Dec 30, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5520,2267,2,8,16,8,"454,560",176,64.1,"1,810"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+NEC Corporation,"Express5800/GT110b-S (Water Cooling)
+May 13, 2010 | HTML | Text",1,Oracle Corporation,Intel Core i3-540,3067,1,2,4,4,"129,402",60.9,25.8,"1,468"
+NEC Corporation,"Express5800/GT110b
+May 13, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon X3430,2400,1,4,4,4,"217,709",100,32.6,"1,730"
+NEC Corporation,"Express5800/GT110b-S
+May 13, 2010 | HTML | Text",1,Oracle Corporation,Intel Core i3-540,3067,1,2,4,4,"130,559",60.9,24.8,"1,499"
+NEC Corporation,"Express5800/A1080a-D
+Express5800/A1080a-D
+Jul 28, 2010 | HTML | Text",2,Oracle Corporation,Intel Xeon X7560,2266,8,64,128,128,"3,385,385","2,003","1,178","1,069"
+NEC Corporation,"Express5800/B120b
+SIGMABLADE-H v2
+Aug 11, 2010 | HTML | Text",3,Oracle Corporation,Intel Xeon L5640,2266,6,36,72,48,"1,923,494",902,360,"1,555"
+NEC Corporation,"Express5800/R120b-2
+Aug 25, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon X5670,2933,2,12,24,16,"806,218",249,74.5,"2,404"
+NEC Corporation,"Express5800/R120b-1
+Sep 9, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon X5670,2933,2,12,24,16,"808,778",257,79,"2,340"
+NEC Corporation,"Express5800/E120b-1
+Sep 22, 2010 | HTML | Text",1,Oracle Corporation,Intel Xeon L5630,2133,2,8,16,16,"452,043",138,60.7,"2,118"
+NEC Corporation,"Express5800/R140b-4
+Jan 4, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X7560,2266,4,32,64,128,"1,862,600",913,498,"1,314"
+NEC Corporation,"Express5800/A1080a-S
+Jan 26, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X7560,2266,4,32,64,128,"1,895,462",938,553,"1,268"
+NEC Corporation,"Express5800/A1080a-E
+Jan 26, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X7560,2266,8,64,128,128,"3,646,995","1,749",993,"1,335"
+NEC Corporation,"Express5800/R120b-2
+Feb 24, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3066,2,12,24,24,"908,306",246,80.4,"2,709"
+NEC Corporation,"Express5800/R120b-1
+Feb 24, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3066,2,12,24,24,"909,263",255,84.3,"2,648"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+NEC Corporation,"Express5800/R110c-1
+Jun 29, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X3470,2933,1,4,8,8,"317,528",118,46.5,"2,009"
+NEC Corporation,"Express5800/R120b-2
+Dec 14, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3066,2,12,24,24,"932,116",250,80.1,"2,772"
+NEC Corporation,"Express5800/R120b-1
+Dec 14, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5675,3066,2,12,24,24,"932,485",259,82.9,"2,707"
+NEC Corporation,"Express5800/T120b-E
+Dec 14, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon X5650,2666,2,12,24,24,"865,618",258,80.1,"2,488"
+NEC Corporation,"Express5800/E120b-1
+Dec 28, 2011 | HTML | Text",1,Oracle Corporation,Intel Xeon E5645,2400,2,12,24,16,"756,242",200,63.1,"2,800"
+NEC Corporation,"Express5800/GT110f-S
+Jun 26, 2013 | HTML | Text",1,Oracle Corporation,Intel Xeon E3-1265LV3,2500,1,4,8,8,"397,309",45.1,15.9,"6,488"
+Nettrix,"R620 G40
+Jul 29, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"7,623,108",468,110,"13,223"
+"New H3C Technologies Co., Ltd.","UniServer R4900 G3
+Sep 20, 2017 | HTML | Text",1,Oracle Corporation,Intel(R) Xeon(R) Platinum 8180 CPU @2.50GHz,2500,2,56,112,96,"5,691,171",430,58.4,"12,368"
+"New H3C Technologies Co., Ltd.","H3C UniServer R6700 G3
+May 8, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L 2.70GHz,2700,4,112,224,384,"12,105,846",963,95.5,"12,747"
+"New H3C Technologies Co., Ltd.","H3C UniServer R6700 G3
+May 8, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,384,"11,462,353",957,99.8,"11,964"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 5, 2019 | HTML | Text",8,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,16,448,896,1536,"45,487,862","3,982",498,"10,820"
+"New H3C Technologies Co., Ltd.","H3C UniServer R6700 G3
+Jun 5, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,4,112,224,384,"11,628,453",956,99.6,"12,190"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 5, 2019 | HTML | Text",9,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,18,504,1008,1728,"51,097,569","4,479",558,"10,780"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 12, 2019 | HTML | Text",10,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,20,560,1120,1920,"56,910,872","4,993",631,"10,954"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 12, 2019 | HTML | Text",11,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,22,616,"1,232","2,112","62,581,687","5,479",681,"11,000"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 12, 2019 | HTML | Text",12,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,24,672,"1,344","2,304","68,308,487","5,999",735,"11,001"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 12, 2019 | HTML | Text",13,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,26,728,"1,456","2,496","74,057,576","6,532",787,"10,996"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 12, 2019 | HTML | Text",14,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,28,784,"1,568","2,688","79,762,333","7,031",838,"11,046"
+"New H3C Technologies Co., Ltd.","H3C UniServer R6700 G3
+Jun 12, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L 2.70GHz,2700,4,112,224,384,"11,927,524",915,94.2,"13,107"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 26, 2019 | HTML | Text",15,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,30,840,1680,2880,"85,336,817","7,561",891,"11,047"
+"New H3C Technologies Co., Ltd.","H3C UniServer B5700 G3
+H3C UniServer B16000
+Jun 26, 2019 | HTML | Text",16,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,32,896,1792,3072,"90,968,790","7,967",959,"11,066"
+"New H3C Technologies Co., Ltd.","H3C UniServer R6900 G5
+Dec 2, 2020 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380HL 2.9GHz,2900,4,112,224,384,"10,793,473","1,005",89.2,"11,159"
+"New H3C Technologies Co., Ltd.","H3C UniServer R4900 G5
+Oct 28, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.3GHz,2300,2,80,160,256,"8,135,458",609,119,"12,521"
+"New H3C Technologies Co., Ltd.","H3C UniServer R4900 G5
+Nov 11, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380 2.3GHz,2300,2,80,160,256,"8,135,458",609,119,"12,521"
+Nokia Corporation,"AE-SER1U-A
+Nokia AirFrame Open Edge
+Feb 14, 2020 | HTML | Text",5,Oracle Corporation,Intel(R) Xeon(R) Gold 6210U CPU @ 2.50GHz,2500,5,100,200,320,"7,411,713",877,247,"6,183"
+Plat'Home,"TRQX-1/50SA
+Jun 10, 2009 | HTML | Text",1,Oracle,Xeon L5420,2500,2,4,4,16,"276,488",268,178,628
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Plat'Home,"Cloud Station E
+Aug 24, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5520,2260,2,8,16,8,"443,893",169,56.7,"1,846"
+Plat'Home,"Cloud Station E
+Oct 21, 2009 | HTML | Text",1,Oracle Corporation,Intel Xeon L5530,2400,2,8,16,8,"457,103",172,56.2,"1,903"
+"Powerleader
+Powerleader Company","PR2510D2
+Oct 14, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5430,2660,2,8,8,8,"285,970",161,84.6,"1,135"
+"Quanta Cloud Technology
+Quanta Computer Inc.","QuantaGrid D53XQ-2U
+Jul 19, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"8,540,483",630,123,"12,217"
+"Quanta Cloud Technology
+Quanta Computer Inc.","QuantaGrid D43K-1U
+Oct 28, 2021 | HTML | Text",1,Oracle Corporation,AMD EPYC 7763,2450,2,128,256,256,"12,028,568",453,78.5,"21,949"
+Quanta Computer Inc.,"QuantaGrid D51B-2U
+Dec 10, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,64,"3,226,361",272,49.6,"10,238"
+Quanta Computer Inc.,"QuantaGrid S31A-1U
+Jun 1, 2016 | HTML | Text",1,Oracle Corporation,Intel E3-1260L v5,2900,1,4,8,16,"474,667",47.9,14.4,"7,908"
+Quanta Computer Inc.,"QuantaGrid D51B-2U
+Jun 8, 2016 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2699 v4,2200,2,44,88,64,"3,381,238",247,46.6,"11,568"
+Quanta Computer Inc.,"QuantaGrid D52BQ-2U
+Oct 25, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,651,522",426,39.5,"12,438"
+Quanta Computer Inc.,"QuantaGrid T42S-2U
+T42S-2U
+Oct 25, 2017 | HTML | Text",4,Oracle Corporation,Intel Xeon Platinum 8176,2100,8,224,448,768,"19,474,075","1,478",206,"11,444"
+Quanta Computer Inc.,"QuantaGrid D52BQ-2U
+Dec 6, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50 GHz (Intel Turbo Boost Technology up to 3.8GHz),2500,2,56,112,96,"5,604,059",401,38.4,"12,801"
+Quanta Computer Inc.,"QuantaGrid D52BQ-2U
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L 2.70 GHz,2700,2,56,112,96,"5,853,181",414,37.7,"13,613"
+"Quanta Computer Inc.
+Quanta Computer Inc.","QuantaGrid D52B-2U
+Jul 11, 2017 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,192,"5,457,796",454,40.3,"12,047"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+SGI,"Altix XE320 Single Node (2.5 GHz, Intel Xeon processor E5420)
+Jun 4, 2008 | HTML | Text",1,"BEA Systems, Inc",Intel Xeon E5420,2500,2,8,8,16,"287,032",260,155,681
+SGI,"Altix XE320 Single Node (3.0 GHz, Intel Xeon processor E5472)
+Jun 4, 2008 | HTML | Text",1,"BEA Systems, Inc",Intel Xeon E5472,3000,2,8,8,16,"341,600",287,156,748
+SGI,"Altix XE250 (Intel Xeon processor E5472)
+Jun 4, 2008 | HTML | Text",1,"BEA Systems, Inc",Intel Xeon E5472,3000,2,8,8,16,"341,642",322,187,661
+SGI,"Altix XE250 (Intel Xeon processor X5272)
+Jun 4, 2008 | HTML | Text",1,"BEA Systems, Inc",Intel Xeon X5272,3400,2,4,4,8,"208,444",280,186,450
+SGI,"Rackable C2005-TY6 (Intel Xeon X5670, 2.93 GHz)
+Jan 5, 2011 | HTML | Text",1,IBM Corporation,Intel Xeon X5670,2933,2,12,24,12,"902,577",226,59.1,"3,077"
+SGI,"Rackable C2112-4TY14
+Rackable C2112
+Jan 26, 2011 | HTML | Text",4,IBM Corporation,Intel Xeon L5640,2267,8,48,96,64,"2,891,044",724,255,"2,788"
+SGI,"Rackable C2112-4G10
+Rackable C2112
+Mar 21, 2012 | HTML | Text",4,IBM Corporation,AMD Opteron 6276,2300,8,128,128,128,"4,755,702","1,387",265,"2,611"
+SGI,"Rackable C2112-4RP4
+Rackable C2112
+Oct 17, 2012 | HTML | Text",4,IBM Corporation,Intel Xeon E5-2660,2200,8,64,128,96,"5,800,642","1,116",268,"4,571"
+Sugon,"I840-G25 (Intel Xeon E7-4850 v2 2.30GHz)
+Jul 15, 2014 | HTML | Text",1,IBM Corporation,Intel Xeon E7-4850 v2 2.30GHz (Intel Turbo Boost Technology up to 2.80GHz),2300,4,48,96,128,NC,NC,NC,NC
+Sugon,"Sugon I620-G20
+Mar 11, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3 2.30 GHz,2300,2,36,72,128,"3,161,325",264,52.5,"9,939"
+Sugon,"Sugon I620-G30(Intel Xeon Platinum 8180 @2.50GHz)
+Jul 26, 2017 | HTML | Text",1,Oracle,Intel Xeon Platinum 8180 @2.50 GHz,2500,2,56,112,192,"5,348,398",419,67.2,"11,573"
+Sugon,"I620-G30(Intel Xeon Platinum 8160)
+Aug 8, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8160,2100,2,48,96,192,"4,386,123",387,53.4,"10,255"
+Sugon,"A620-G30(AMD EPYC 7351)
+Aug 8, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7351,2400,2,32,64,128,"2,721,413",278,103,"6,507"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Sugon,"A620-G30(AMD EPYC 7501)
+Aug 8, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7501,2000,2,64,128,128,"4,212,617",307,103,"9,248"
+Sugon,"I620-G30 (Intel Xeon Platinum 8180)
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180,2500,2,56,112,192,"5,741,928",450,54.6,"12,306"
+Sugon,"I620-G30 (Intel Xeon Gold 6152)
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6152,2100,2,44,88,192,"3,976,866",364,53.1,"9,825"
+Sugon,"I620-G30 (Intel Xeon Gold 6140)
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 6140,2300,2,36,72,192,"3,536,666",343,52.4,"9,230"
+Sugon,"I620-G30 (Intel Xeon Gold 5117)
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Gold 5117,2000,2,28,56,192,"2,446,314",245,51.9,"8,079"
+"Sugon
+Parts Built
+Sugon","A620-G30
+Jul 5, 2018 | HTML | Text",1,Oracle Corporation.,AMD EPYC 7601,2200,2,64,128,128,"4,364,495",296,94.9,"10,831"
+"Sun Microsystems, Inc.","Sun Netra X4250
+Mar 30, 2009 | HTML | Text",1,"Sun Microsystems, Inc.",Intel Xeon L5408,2133,2,8,8,8,"244,832",226,174,600
+"Sun Microsystems, Inc.","Sun Netra X4250
+May 6, 2009 | HTML | Text",1,"Sun Microsystems, Inc.",Intel Xeon L5408,2133,2,8,8,32,"251,555",294,226,478
+"Sun Microsystems, Inc.","Sun Netra X4250
+May 6, 2009 | HTML | Text",1,"Sun Microsystems, Inc.",Intel Xeon L5408,2133,2,8,8,32,"229,828",296,225,437
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor E5345)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor E5345,2333,2,8,8,8,"235,525",334,220,419
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor L5335)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor L5335,2000,2,8,8,8,"221,450",300,223,423
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor E5345)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor E5345,2333,2,8,8,16,"245,571",334,219,435
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor L5335)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor L5335,2000,2,8,8,16,"229,476",300,223,438
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor 5160)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor 5160,3000,2,4,4,8,"164,569",315,216,318
+"Super Micro Computer, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor E5345)
+Feb 13, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor E5345,2333,2,8,8,8,"234,339",357,245,385
+"SuperMicro, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor 5160)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor 5160,3000,2,4,4,8,"163,768",291,191,338
+"SuperMicro, Inc.
+Intel Corp.","Supermicro 6025B-TR+ (Intel Xeon processor L5335)
+Dec 11, 2007 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon processor L5335,2000,2,8,8,8,"220,306",276,198,468
+Supermicro,"SYS-6027R-72RF
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,128,"1,337,393",347,115,"2,956"
+Supermicro,"SYS-7047R-72RF
+Jun 28, 2012 | HTML | Text",1,Oracle Corporation,Intel Xeon E5-2665,2400,2,16,32,128,"1,337,474",331,102,"3,145"
+"Supermicro Computer Inc.
+Advanced Micro Devices","1022G-NTF
+Nov 16, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6276,2300,2,32,32,32,"1,123,597",306,77,"2,805"
+"Supermicro Computer Inc.
+Advanced Micro Devices","1022G-NTF
+Nov 16, 2011 | HTML | Text",1,IBM Corporation,AMD Opteron 6262 HE,1600,2,32,32,32,"793,535",213,70.3,"2,618"
+"Supermicro Computer Inc.
+Advanced Micro Devices","1022G-NTF
+Jun 4, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6278,2400,2,32,32,64,"1,233,423",320,82.6,"2,892"
+"Supermicro Computer, Inc.
+Advanced Micro Devices","1022G-NTF
+Nov 7, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6380 (AMD Turbo CORE Technology up to 3.40GHz),2500,2,32,32,64,"1,636,298",308,77.9,"4,040"
+"Supermicro Computer, Inc.
+Advanced Micro Devices","1022G-NTF
+Nov 7, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 6366 HE (AMD Turbo CORE Technology up to 3.10GHz),1800,2,32,32,64,"1,219,688",216,72.7,"3,966"
+Supermicro Inc.,"6015C-MTB
+Oct 9, 2008 | HTML | Text",1,"BEA Systems, Inc.",Intel Xeon L5420,2500,2,8,8,8,"279,209",174,96.8,990
+Supermicro Inc.,"System 6027R-WRF
+Nov 14, 2012 | HTML | Text",1,Oracle Corp.,Intel Xeon E5-2660 (2.20GHz),2200,2,16,32,32,"1,296,979",272,83.6,"3,915"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+Supermicro Inc.,"System 1027B-URF
+Nov 14, 2012 | HTML | Text",1,Oracle Corp.,Intel Xeon E5-2470 (2.30GHz),2300,2,16,32,24,"1,288,201",285,62.4,"3,913"
+Supermicro Inc.,"System 7047GR-TRF
+Nov 14, 2012 | HTML | Text",1,Oracle Corp.,Intel Xeon E5-2670 (2.30GHz),2300,2,16,32,64,"1,448,093",413,101,"2,696"
+Supermicro Inc.,"SYS-1028R-WC1RT
+Feb 11, 2015 | HTML | Text",1,IBM Corporation,Intel Xeon E5-2699 v3,2300,2,36,72,32,"2,935,596",302,75.9,"8,004"
+Supermicro Inc.,"SYS-1029U-TR4
+Aug 15, 2018 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8180 2.50GHz,2500,2,56,112,192,"5,569,503",423,64.2,"11,960"
+Supermicro Inc.,"Server 1123US-TR4
+Sep 27, 2018 | HTML | Text",1,Oracle Corporation,AMD EPYC 7501 2.0 GHz,2000,2,64,128,512,"4,406,978",303,98.4,"10,206"
+Supermicro Inc.,"SuperServer SYS-6029P-WTR
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8276M 2.20GHz,2200,2,56,112,192,"5,622,643",416,48.1,"13,295"
+Supermicro Inc.,"SYS-1029U-TR4
+Apr 2, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280L 2.70GHz,2700,2,56,112,384,"5,655,930",426,61.8,"12,265"
+Supermicro Inc.,"SuperServer SYS-6029P-WTR
+Jul 23, 2019 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8280 2.70GHz,2700,2,56,112,192,"5,545,677",385,48.6,"13,623"
+Supermicro Inc.,"Server 1123US-TR4
+Sep 26, 2019 | HTML | Text",1,Oracle Corporation,AMD EPYC 7702 2.0Ghz,2000,2,128,256,512,"11,335,181",412,99.2,"19,391"
+Supermicro Inc.,"SuperServer SYS-740GP-TNRT
+Jul 7, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,512,"8,276,722",633,118,"12,568"
+Supermicro Inc.,"SuperServer SYS-620C-TN12R
+Jul 7, 2021 | HTML | Text",1,Oracle Corporation,Intel Xeon Platinum 8380,2300,2,80,160,256,"8,769,122",622,101,"13,544"
+"Supermicro Inc.
+Advanced Micro Devices","6025W-NTR+
+Nov 5, 2008 | HTML | Text",1,Oracle Corporation,Intel Xeon L5420 (2.5GHz),2500,2,8,8,16,"267,804",279,179,561
+"Supermicro Inc.
+Advanced Micro Devices","2021M-UR+
+Nov 5, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 2380,2500,2,8,8,16,"308,089",269,138,731
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"Supermicro Inc.
+Advanced Micro Devices","1021M-UR+B
+Feb 25, 2009 | HTML | Text",1,IBM Corporation,AMD Opteron 2376HE,2300,2,8,8,16,"346,326",210,119,"1,044"
+"Supermicro Inc.
+Advanced Micro Devices","1022G-NTF
+Jan 22, 2014 | HTML | Text",1,IBM Corporation,AMD Opteron 6370P (AMD Turbo CORE Technology up to 2.50GHz),2000,2,32,32,64,NC,NC,NC,NC
+"Supermicro Inc.
+Supermicro Inc","SYS-5019S-M(X11SSH-F)
+Dec 3, 2015 | HTML | Text",1,IBM Corporation,Intel E3-1270 v5,3600,1,4,8,16,NC,NC,NC,NC
+"Supermicro Inc.
+Supermicro Inc","SYS-5019S-M(X11SSH-F)
+Jan 7, 2016 | HTML | Text",1,IBM Corporation,Intel E3-1260L v5,2900,1,4,8,16,NC,NC,NC,NC
+"Supermicro Inc.
+Supermicro Inc","SYS-5019S-MR(X11SSH-F)
+Feb 4, 2016 | HTML | Text",1,IBM Corporation,Intel E3-1260L v5,2900,1,4,8,16,NC,NC,NC,NC
+"Tyan Computer Corp.
+Advanced Micro Devices","Transport GT24 (B2912-E)
+Nov 5, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 2384,2700,2,8,8,16,"335,116",264,136,826
+"Tyan Computer Corp.
+Parts Built
+Advanced Micro Devices","Transport GT24 (B2912-E)
+Nov 5, 2008 | HTML | Text",1,Oracle Corporation,AMD Opteron 2384,2700,2,8,8,16,"338,577",264,121,860
+"Tyan Computer Corporation
+Parts Built
+Advanced Micro Devices","B8228Y190X2-045V4H
+Dec 4, 2012 | HTML | Text",1,IBM Corporation,AMD Opteron 4376 HE,2600,2,16,16,32,"843,336",186,59.5,"3,293"
+"Tyan Computer Corporation
+Parts Built
+Advanced Micro Devices","B8228Y190X2-045V4H
+Dec 4, 2012 | HTML | Text",1,IBM Corparation,AMD Opteron 4386,3100,2,16,16,32,"971,064",256,60.9,"3,052"
+"Tyan Computer Corporation
+Parts Built
+Advanced Micro Devices","B8228Y190X2-045V4H
+Dec 4, 2012 | HTML | Text",1,IBM Corparation,AMD Opteron 4310 EE,2200,2,8,8,32,"373,385",109,56.8,"2,137"
+"UNIWIDE
+Telecommunications Technology Association","RC2212
+Feb 26, 2021 | HTML | Text",1,Oracle Corporation,Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz,2200,2,20,40,768,"1,321,867",291,127,"2,901"
+"Verari Systems, Inc.","RB1305
+May 20, 2009 | HTML | Text",1,Oracle Corporation,"Intel Xeon X5570, 2.933 GHz",2930,2,8,16,8,"551,440",224,53.7,"1,927"
+"XSLAB
+Telecommunications Technology Association","V-Raptor SQ
+19 inch Rackmount 2U Server System
+Dec 8, 2021 | HTML | Text",16,Oracle Corporation,ARM Cortex A53(1GHz) 24 Cores: SOCIONEXT SC2A11 ARM SoC,1000,384,384,384,256,"1,577,507",269,206,"3,337"
+"Hardware Vendor
+Test Sponsor","System
+Enclosure (if applicable)",Nodes,JVM Vendor,Processor,,,,,"Total
+Memory (GB)",Submeasurements,,,"Result
+(Overall ssj_ops/watt)"
+,,,,CPU Description,MHz,Chips,Cores,"Total
+Threads",,"ssj_ops
+@ 100%","avg. watts
+@ 100%","avg. watts
+@ active idle",
+"XSLAB
+Telecommunications Technology Association","V-Raptor SQ
+19 inch Rackmount 2U Server System
+Dec 9, 2021 | HTML | Text",16,Oracle Corporation,ARM Cortex-A53(1GHz) 24 Cores: SOCIONEXT SC2A11 ARM SoC,1000,384,384,384,256,"1,465,360",269,206,"3,110"
+"ZT Systems
+Advanced Micro Devices","1224Ra Datacenter Server
+Aug 26, 2009 | HTML | Text",1,IBM Corporation,AMD Opteron 2419 EE,1800,2,12,12,8,"406,954",178,74.6,"1,614"
+"ZT Systems
+Advanced Micro Devices","1224Ra Datacenter Server
+Aug 26, 2009 | HTML | Text",1,IBM Corporation,AMD Opteron 2425 HE,2100,2,12,12,16,"462,215",218,80.4,"1,532"
+"ZT Systems
+ZT Systems","1224Ra Datacenter Server
+May 20, 2009 | HTML | Text",1,IBM Corporation,AMD Opteron 2377 EE,2300,2,8,8,16,"342,104",172,73.1,"1,379"
+"ZT Systems
+ZT Systems","1253Ra Datacenter Server
+Jun 23, 2010 | HTML | Text",1,IBM Corporation,AMD Opteron 4164 EE,1800,2,12,12,16,"409,496",126,56.6,"2,106"

@@ -1,0 +1,21 @@
+type,family
+E2,Skylake
+E2,Broadwell
+E2,Haswell
+E2,AMD EPYC Rome
+N2,Cascade Lake
+N2,Ice Lake
+N2D,AMD EPYC Rome
+N2D,AMD EPYC Milan
+T2D,AMD EPYC Milan
+N1,Skylake
+N1,Broadwell
+N1,Haswell
+N1,Sandy Bridge
+N1,Ivy Bridge
+C2,Cascade Lake
+C2D,AMD EPYC Milan
+M1,Skylake
+M1,Broadwell E7
+M2,Cascade Lake
+A2,Cascade Lake
